@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_video_library_24"
+        android:title="Danh sách"
+        />
+
+    <item android:id="@+id/navigation_cources"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:title="Khóa học"
+        />
+    <item android:id="@+id/navigation_quiz"
+        android:icon="@drawable/ic_baseline_auto_stories_24"
+        android:title="Ôn tập"
+        />
+    <item android:id="@+id/navigation_note"
+        android:icon="@drawable/ic_baseline_event_note_24"
+        android:title="Ghi chú"
+        />
+</menu>

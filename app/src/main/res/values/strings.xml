@@ -1,0 +1,1245 @@
+<resources>
+    <string name="app_name">EnglishApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">
+
+    </string>
+    <string name="xinphepnghi">
+        <b><font color="#FFFF5252"><font size="20">1. Cách áp dụng mẫu câu tiếng Anh giao tiếp khi xin phép nghỉ</font></font></b>
+        \n\n<b><font color="#FF1565C0"><font size="18"> Mẫu hội thoại tiếng Anh xin phép nghỉ</font></font></b>
+        \n\n A: Excuse me. May I ask for tomorrow morning off?\n (Xin lỗi, tôi có thể xin phép nghỉ sáng mai không ạ?)
+        \n\n B: Oh. What is the reason?\n (Ồ, vì lý do gì vậy?)
+        \n\n A: I\’m not feeling well right now. I need to see a doctor tomorrow.\n (Tôi đang cảm thấy không khỏe. Tôi cần đi khám vào ngày mai)
+        \n\n B: Okay. Have you arranged your work tomorrow?\n (Ok. Bạn đã sắp xếp công việc ngày mai chưa?)
+        \n\n A: I have done all the work. If it has any mistake, you can ask Mr.Hung to fix for me.\n (Tôi đã hoàn thành hết công việc. Nếu có vấn đề gì, bạn có thể yêu cầu Mr.Hưng sửa giúp tôi)
+        \n\n B: All right. Take a day off to rest. If I need more days off, please send an email for me.\n (Được rồi. Hãy dành một ngày nghỉ ngơi đi. Nếu cần thêm ngày nghỉ, hãy gửi email cho tôi)
+        \n\n A: Thank you.\n (Cảm ơn bạn)
+        \n\n<b><font color="#FF1565C0"><font size="18"> Mẫu email tiếng Anh xin phép nghỉ</font></font></b>
+        \n\n Subject: Sick leave application
+        \n\n Dear Mr Nam,
+        \n\n I am writing to notify you that I need sick leave from work because of a several viral infection. I caught the infection yesterday evening and since then have been feeling very weak.
+        \n As per the doctor, I take to take medication for 5 days, along with proper rest for at least a week.
+        \n Kindly allow me a week-long leave, until July 25th. If I need an extended period off, I will let you know as early as possible.
+        \n Thank you for your quick attention to this matter.
+        \n\n Sincerely,
+        \n Thanh Tran
+    </string>
+    <string name="bieton">
+        <b><font color="#FFFF5252"><font size="20">1. Một số trường hợp cụ thể cần bày tỏ lòng biết ơn</font></font></b>
+        \n\n Ngoài những tình huống thông thường, có một vài trường hợp rất cụ thể mà bạn cần phải nói lời cảm ơn với đồng nghiệp, cấp trên hoặc khách hàng, chẳng hạn như một số trường hợp sau:
+        \n\n<b><font color="#FF1565C0"><font size="18"> Nói lời cảm ơn với đồng nghiệp</font></font></b>
+        \n\n Hãy tưởng tượng một ngày bạn đến cơ quan đi làm, hoặc sau một buổi sáng ra ngoài gặp khách hàng, lúc quay trở lại thì có một tách cà phê đã được pha sẵn cùng một lời chúc trên giấy ghi chú, hay trường hợp một người đồng nghiệp đã giúp đỡ bạn đi in tài liệu. Điều đó quả thật là một hành động đẹp, nhưng bạn cần phải nói điều gì trong những trường hợp này để bày tỏ lòng biết ơn của mình?
+        \n\n “Wow, that’s so nice of you.”\n– Dịch: Bạn thật là một người tốt bụng
+        \n\n “What a nice surprise.”\n– Dịch: Đây là một bất ngờ tuyệt vời
+        \n\n “I didn\’t expect that, thanks a lot.”\n– Dịch: Tôi đã không ngờ đến điều này, cảm ơn bạn rất nhiều
+        \n\n “You read my mind, thanks.”\n– Dịch: Bạn có thể đọc được suy nghĩ của tôi đúng không, cảm ơn nhé
+        \n\n “Thanks a million.” (thường được sử dụng nhiều hơn khi viết giấy cảm ơn)\n– Dịch: Cảm ơn bạn triệu lần
+        \n\n “Much appreciated” (thường được sử dụng nhiều hơn khi viết giấy cảm ơn)\n– Dịch: Tôi rất cảm kích vì điều này
+        \n\n<b><font color="#FF1565C0"><font size="18"> Nói lời cảm ơn với cấp trên</font></font></b>
+        \n\n Một điều tuyệt vời trong cuộc sống công sở đó chính là gặp một đồng nghiệp tốt và một cấp trên tốt. Trong trường hợp bạn may mắn gặp được một cấp trên luôn sẵn sàng giúp đỡ bạn, luôn thể hiện sự ủng hộ đối với quan điểm của bạn và trả lời những câu hỏi, thắc mắc, hay giúp bạn vượt qua những trở ngại trong công việc. Bạn cần nói điều gì để thể hiện được sự kính trọng và biết ơn của mình? Một số mẫu câu giao tiếp tiếng Anh cho người đi làm mà bạn có thể tham khảo trong trường hợp này như:
+        \n\n “Thank you for your time today.” (Qua thư điện tử hoặc gặp mặt trực tiếp)\n– Dịch: Cảm ơn bạn vì đã dành thời gian cho tôi hôm nay
+        \n\n “I really appreciate your taking the time to meet with me today.”\n– Dịch: Tôi rất cảm kích khi bạn đã dành thời gian gặp mặt tôi ngày hôm nay
+        \n\n “Our meeting was very helpful. Thanks so much.”\n– Dịch: Buổi gặp mặt rất có ý nghĩa. Cảm ơn bạn rất nhiều.
+        \n\n<b><font color="#FF1565C0"><font size="18"> Nói lời cảm ơn đến khách hàng</font></font></b>
+        \n\n Trường hợp khi gặp mặt nói chuyện với khách hàng, bạn cũng rất cần bày tỏ lòng cảm ơn của mình. Khi bạn nhiệt tình thể hiện sự quan tâm và cảm kích của bản thân, bạn sẽ càng có nhiều cơ hội để gây dựng mối quan hệ tốt giữa mình với khách hàng. Do đó, nói lời cảm ơn với khách hàng là rất quan trọng.
+        \n\n Thank you for your purchase from our company. Please let us know if we can do anything else to help!
+        \n Dịch: Cảm ơn vì đã chọn mua sản phẩm của công ty chúng tôi. Đừng ngại cho chúng tôi biết chúng tôi có thể giúp được gì cho bạn!
+        \n\n Just wanted to say thank you for your purchase. We\’re so lucky to have customers like you!
+        \n Dịch: Tôi muốn gửi lời cảm ơn vì bạn đã tin dùng sản phẩm của chúng tôi. Chúng tôi cảm thấy rất may mắn khi có bạn là khách hàng của mình.
+        \n\n Thank you for being an [company name] customer. We sincerely appreciate your business and hope you come back soon!
+        \n Dịch: Cảm ơn vì đã trở thành khách hàng của [Tên công ty]. Chúng tôi vô cùng trân trọng quý công ty và rất mong quý công ty sẽ sớm hợp tác một lần nữa.
+        \n\n [company name] has the best customers! Thank you so much for your support!
+        \n Dịch: [Tên công ty bạn] có một khách hàng tuyệt vời nhất! Cảm ơn các bạn vì đã luôn ủng hộ!
+        \n\n Thank you for being our valued customer. We are so grateful for the pleasure of serving you and hope we met your expectations.
+        \n Dịch: Cảm ơn bạn vì đã trở thành một khách hàng quý giá của chúng tôi. Chúng tôi rất cảm kích khi có thể phục vụ bạn và chúng tôi mong rằng mình có thể đáp ứng được sự mong đợi từ bạn.
+    </string>
+    <string name="baogia">
+        <b><font color="#FFFF5252"><font size="20">1. Ứng dụng tiếng Anh cho người đi làm khi báo giá trong đời sống</font></font></b>
+        \n\n Có thể bạn không nhận ra nhưng báo giá và hỏi giá là các hoạt động xảy ra thường xuyên trong cuộc sống của chúng ta. Dưới đây là một số mẫu hội thoại mà bạn có thể bắt gặp hàng ngày trong đời sống của bạn.
+        \n\n<b><font color="#FF1565C0"><font size="18"> Khi mua bán hàng hóa thông thường</font></font></b>
+        \n\n<b> Mẫu hội thoại 1:</b>
+        \n\n A: Good morning, I want to ask you to buy this product
+        \n\n B: Good morning, how many items you want to buy?
+        \n\n A: I want to buy 2 phones
+        \n\n B: Oh yes, which one do you choose? And you want to buy 2 same ones or 2 different ones?
+        \n\n A: I would like to choose this model, with one is red and one is black, the same brand but two different colors.
+        \n\n B: Yes, but I also want to confirm that the red color is a little bit more expensive than others.
+        \n\n A: So what is the price for each?
+        \n\n B: The red one is $850, while the black one is $800.
+        \n\n A: Is there any discount?
+        \n\n B: Right now, there is no discount program from the brand, but in our shop, we are running the event “Welcome summer”, so with that bill, you will have a couple of earphones as presents.
+        \n\n A: That sounds great, I will choose two of these phones.
+        \n\n B: Yes, please wait a moment here.
+        \n\n<b> Mẫu hội thoại 2:</b>
+        \n\n A: Hi, I am kind of interested in having this camera.
+        \n\n B: That\’s awesome!
+        \n\n A: How much does it cost?
+        \n\n B: The price of this camera is $3500.
+        \n\n A: You can\’t be serious.
+        \n\n B: That\’s actually how much this camera costs.
+        \n\n A: That\’s beyond expensive.
+        \n\n B: This camera is really high quality.
+        \n\n A: You can\’t lower the price?
+        \n\n B: By how much?
+        \n\n A: I would like to buy it for the cost of $3000.
+        \n\n B: Ok, deal.
+        \n\n<b><font color="#FF1565C0"><font size="18"> Khi thuê, mua nhà hoặc căn hộ</font></font></b>
+        \n\n A: I would like to rent this house.
+        \n\n B: I\’m happy to hear you say that.
+        \n\n A: How much are you asking for every month?
+        \n\n B: I\’m renting this house out for $2050 a month.
+        \n\n A: This price is quite a lot of money for just one month.
+        \n\n B: Not at all, this price is a suitable price.
+        \n\n A: How about $1850 a month?
+        \n\n B: That doesn\’t sound good.
+        \n\n A: It\’s either $1850 or nothing at all.
+        \n\n B: I understand your situation but I can\’t go any lower than $2000.
+        \n\n A: Could you please go a little bit lower?
+        \n\n B: That\’s the best I can do.
+
+    </string>
+    <string name="nhanvienmoi">
+        <b><font color="#FFFF5252"><font size="20">1. Làm quen với môi trường làm việc và văn hóa công ty</font></font></b>
+        \n\n Bước chân vào một văn phòng mới, một nơi làm việc xa lạ với rất nhiều thứ mà chúng ta không biết như các đồ dùng vật dụng, nội quy, văn hóa của công ty hay vị trí phòng ban,… Chính vì thế chúng ta nên tìm hiểu các thông tin này qua đồng nghiệp, dưới đây là các cách hỏi dành cho nhân viên mới trong tiếng anh giao tiếp cho người đi làm.
+        \n\n<b><font color="#FF1565C0"><font size="18"> Hỏi về vị trí phòng ban, tên người quản lí phòng ban</font></font></b>
+        \n\n Where is the accounting department/ meeting/ director room? – Phòng kế toán/phòng họp/ phòng giám đốc ở đâu?
+        \n\n Một số mẫu trả lời:
+        \n\n It\’s this/that way.\n- Chỗ đó ở phía này
+        \n\n The meeting room is opposite the director room.\n– Phòng họp ở đối diện phòng giám đốc
+        \n\n The accounting department room is between meeting room and director room.\n– Phòng kế toán nằm giữa phòng họp và phòng giám đốc.
+        \n\n The meeting room is next to the director room.\n- Phòng họp sát bên cạnh phòng giám đốc
+        \n\n The meeting room is near the director room.\n– Phòng họp gần phòng giám đốc (gần đấy chứ không phải sát bên cạnh)
+        \n\n The WC is at the end of the corridor room.\n– Phòng vệ sinh ở cuối hành lang.
+        \n\n<b><font color="#FF1565C0"><font size="18">Hỏi về văn hóa, quy định của công ty</font></font></b>
+        \n\n What are the company rules?- Quy định của công ty là gì vậy?
+        \n\n What rules does our company have? –  Công ty của chúng ta có những quy định gì vậy?
+        \n\n Hoặc thay vì hỏi một câu chung chung như vậy, cách tốt nhất các bạn nên hỏi đó là hỏi xin bản thảo về các quy tắc, quy định của công ty :
+        \n\n<b> Can you send me company rules and regulations document? – Bạn có thể gửi cho tôi bản thảo quy tắc, quy định công ty không?</b>
+        \n\n Hỏi xin bản thảo về quy tắc có thể về đọc được toàn bộ các nội quy cũng như thông qua đó có thể tìm hiểu được phần nào văn hóa công ty. Phần còn lại của văn hóa công ty chắc chắn phải do trải nghiệm, quan sát mới thấy được rồi.
+        \n\n<b><font color="#FF1565C0"><font size="18">Giới thiệu về vị trí chỗ ngồi:</font></font></b>
+        \n\n Your desk is over there on the right, and I\’ll be over here at the desk in the front. – Bàn làm việc của cô ở đằng kia phía bên phải ấy, và tôi sẽ ngồi ở đây cái bàn làm việc phía trước đó nhé.
+        \n\n<b><font color="#FF1565C0"><font size="18">Hỏi và trả lời vể vị trí đồ đạc:</font></font></b>
+        \n\n Where is the typist\’s desk?/ bookcase?/ waste basket?/ calculator/…?- Bàn làm việc của nhân viên đánh máy/ giá tài liệu/ thùng rác/ máy tính ở đâu/…?
+        \n\n It\’s on the left./ on the right./ in the front./ in the back./ on the front desk/….-Nó ở bên trái./ bên phải./ phía trước./ đằng sau./ trên bàn phía trước/…
+    </string>
+    <string name="chaotambiet">
+        <b><font color="#FFFF5252"><font size="20">1. Lời chào tạm biệt mang tính trang trọng, lịch sự</font></font></b>
+        \n\n Khác với trong tiếng Việt, khi chúng ta sử dụng lời nói trang trọng lịch sự thì thường dùng kính ngữ như “dạ” “vâng ạ”, thì trong tiếng anh, người bản ngữ thường sử dụng các từ hoặc các cụm từ biểu thị sự lịch sự trong xã giao. Trong tiếng anh cho người đi làm thì thường sẽ mang tính trang trọng, lịch sự là nhiều. Các mẫu chào hỏi mà ta sẽ bắt gặp trong mỗi trường hợp như sau:
+        \n<b><font color="#FF1565C0"><font size="18"> Khi gặp nhà đầu tư</font></font></b>
+        \n\n<b> It was great/ nice/ glad/ pleased meeting you</b>
+        \n Cụm từ trên mang nghĩa “Rất vui/hân hạnh được gặp anh/chị/ngài”. Đây là lời nói đệm trước một lời chào tạm biệt, trong một số bối cảnh thì nó cũng được sử dụng như chính lời tạm biệt. Cách nói trên thể hiện một thái độ thân thiện, tính trang trọng và lịch sự. Với tiếng anh giao tiếp cho người đi làm, cách tạm biệt trên thường có thể dùng để đặt vào bối cảnh kết thúc một cuộc đàm phán trong kinh doanh.
+        \n\n<b> It was great/ nice/ glad/ pleased talking to you</b>
+        \n Cùng mang một ý nghĩa và mục đích với cách chào “it was great/ nice/ glad/ pleased meeting to you” ở trên. Nhưng cách cách chào này lại nhấn mạnh vào cảm xúc khi tham gia cuộc trò chuyện hơn là hình thức xã giao. Ví dụ như khi gặp một nhà đầu tư tài giỏi và bạn cảm thấy cuộc trò chuyện với họ thật thú vị thì khi kết thúc cuộc gặp mặt, chúng ta có thể sử dụng cách nói này.
+        \n\n<b><font color="#FF1565C0"><font size="18"> Khi gặp đối tác</font></font></b>
+        \n\n<b> I look forward to our next meeting</b>
+        \n Câu này mang nghĩa “Tôi rất mong chờ cuộc gặp tới của chúng ta”. Cách tạm biệt này mang được sử dụng trong tình huống cực kỳ trịnh trọng và lịch sự.  Trong một cuộc đàm phán với đối tác làm ăn thì cách nói này khiến đối tác hiểu được rằng dù có tạm biệt thì bạn vẫn muốn giữ liên lạc với họ.
+        \n\n<b><font color="#FF1565C0"><font size="18"> Khi gặp khách hàng</font></font></b>
+        \n\n<b> Have a good day/ nice day/good.</b>
+        \n Câu trên mang nghĩa của một lời chúc “Chúc một ngày tốt lành”. Đây là một câu tạm biệt mang tính phổ thông và được dùng nhiều trong bối cảnh chứ không riêng gì trong bối cảnh công sở. Nhưng cũng là câu tiếng anh cho người đi làm được sử dụng rất nhiều khi gặp khách hàng của mình. Bởi giữa nhân viên với khách hàng thì cách chào này vừa thể hiện sự lịch sự lại vừa thể hiện thiện ý của mình.
+        \n\n<b><font color="#FF1565C0"><font size="18"> Khi gặp Sếp, người lạ, đồng nghiệp mới</font></font></b>
+        \n\n <b>Goodbye</b>
+        \n Đây là cách chào “tạm biệt” phổ thông mà bất cứ ai học tiếng anh cũng đều biết. Đến mức người Việt cũng dùng đến nó thường xuyên như một cách giao tiếng thân mật. Nhưng trên thực tế, cụm từ này được người bản xứ ít sử dụng. Bởi nó thể hiện tính lịch sự và trang trọng. Thế nên nó được sử dụng nhiều hơn trong tiếng anh cho người đi làm hơn các bối cảnh giao tiếng thường nhật.
+        \n\n<b> See you later/ next time</b>
+        \n “Hẹn gặp bạn lần sau” – Cách tạm biệt này so với cách nói “Goodbye” dường như không khác nhau là mấy. Chúng ta vẫn thường bắt gặp nó hàng ngày. Nó là câu tiếng anh cho người đi làm sử dụng khi chúng ta chỉ tạm biệt nhau sau một bữa trưa hay một công việc ngắn thời gian chứ không nhất thiết là khi tan làm.
+    </string>
+    <string name="lenlichhop">
+        <b><font color="#FFFF5252"><font size="20">1. Mẫu hội thoại tiếng Anh giao tiếp cho người đi làm lên lịch họp</font></font></b>
+        \n<b><font color="#FF1565C0"><font size="18">Tình huống giao tiếp với đối tác</font></font></b>
+        \n\n A: We need to discuss about the upcoming projects. I would like to make an appointment with you to clarify some information.
+        \n\n B: Of course, I have Thursday or Friday available. Would Thursday suit you?
+        \n\n A: Um… I have an appointment with some partners on Thursday. I prefer Friday to meet you.
+        \n\n B: Okay. Do you want to come in the morning or afternoon?
+        \n\n A: Afternoon is the best for me.
+        \n\n B: I will check my calendar and call you later with the exact time. Can you send me the plan of the project today?
+        \n\n A: Yes, I will send you the plan by email.
+        \n\n B: Do you know how to get my office at 1 Thai Ha street?
+        \n\n A: No, Can you tell me the directions, please?
+        \n\n B: Yes, we will send you all of the information that you need. See you there!
+        \n\n<b><font color="#FF1565C0"><font size="18">Tình huống giao tiếp với đồng nghiệp</font></font></b>
+        \n\n A: I\’m afraid that I have to cancel our meeting on Monday, as something unexpected has come up. Would you be free for a meeting on Tuesday?
+        \n\n B: It\’s okay. I will be out of the office on Tuesday morning, but I will be available on Tuesday afternoon.
+        \n\n A: Sounds good. I will arrange a meeting on Tuesday afternoon on Trello to announce other committees.
+        \n\n B: Okay. I think 2.pm is the best time. Make sure that they all get notified. By the way, you need to prepare carefully your presentation before the meeting. Do you need help?
+        \n\n A: No, I can do it on my own. However, we need to sit down and thrash out the details of the agreement.
+        \n\n B: Okay! Call me if you need any further information. Looking forward to meeting with you!
+    </string>
+    <string name="thaoluan">
+        <b><font color="#FFFF5252"><font size="20">1. Mẫu hội thoại tiếng Anh giao tiếp cho người đi làm thảo luận công việc</font></font></b>
+        \n\n A: The newest marketing campaign wasn\’t very successful. What can we do now to promote the product?\n (Chiến dịch marketing mới nhất của chúng tôi không được thành công cho lắm. Chúng ta nên làm gì để quảng bá sản phẩm này nhỉ?)
+        \n\n B: We can promote online marketing, through social media, increase Facebook ads or we can give away gifts related to product.\n (Chúng ta nên thúc đẩy truyền thông online, thông qua mạng xã hội, tăng cường chạy quảng cáo Facebook hoặc tổ chức chương trình phần thưởng liên quan đến sản phẩm nữa)
+        \n\n A: Those are both good ideas. I couldn\’t agree more. However, the cost of Facebook ads now is relatively high. We should control it not to exceed our budget. Moreover, make sure that the gift of give away event are our brand. We don\’t want to promote another company\’s product.\n (Cả hai đều là ý tưởng hay. Tôi hoàn toàn đồng ý. Tuy nhiên, giá quảng cáo Facebook hiện tại khá cao. Chúng ta cần kiểm soát để không vượt quá ngân sách. Hơn nữa, hãy đảm bảo những món quà tặng trong chương trình thuộc thương hiệu của chúng ta. Chúng ta không muốn quảng bá cho sản phẩm của công ty khác)
+        \n\n A: Of course. Marketing team will make sure that our trademark is on everything related to the promotion.\n (Tất nhiên. Phòng truyền thông sẽ đảm bảo nhãn hiệu của chúng ta sẽ xuất hiện trên tất cả liên quan đến chương trình)
+        \n\n B: Good. Our goal is both increase sales and enhance brand awareness.\n (Tốt. Mục tiêu của chúng ta là vừa tăng doanh thu, vừa tăng nhận diện thương hiệu)
+        \n\n A: Okay, I\’ll discuss this further with the advertising team and tomorrow we will present an entire promotional campaign to you.\n (Okay, tôi sẽ thảo luận thêm với nhóm quảng cáo và sẽ trình bày toàn bộ chiến dịch quảng bá vào ngày mai tới anh)
+        \n\n B: The new campaign need to be run before December 15th.\n (Chiến dịch mới này cần được chạy trước ngày 15 tháng 12)
+        \n\n A:  Oh. I would suggest you push your deadline back because we have many things to do.\n (Ồ. Tôi khuyên là anh nên dời hạn chót xuống vì chúng ta có rất nhiều việc phải làm)
+        \n\n B: I respectfully disagree with you there. The priority is to run before the Christmas holiday, so we do not want to move this deadline. I would suggest you discuss this further with the advertising team.\n (Tôi không đồng ý với anh. Quan trọng là phải chạy trước ngày lễ Giáng sinh, nên chúng ta không nên dời hạn chót này. Tôi nghĩ anh nên thảo luận thêm với cả nhóm quảng cáo)
+        \n\n A: Okay, we will try our best to run a successful campaign.\n (Được thôi. Chúng tôi sẽ cố gắng hết sức để chạy chiến dịch này thành công)
+    </string>
+    <string name="dienthoai">
+        <b><font color="#FFFF5252"><font size="20">1. Mẫu hội thoại tiếng Anh cho người đi làm chủ đề nói chuyện qua điện thoại</font></font></b>
+        \n<b><font color="#FF1565C0"><font size="18"> Tình huống trả lời khi người cần gặp đang bận</font></font></b>
+        \n\n A: Bee Designs
+        \n B : Hi. Would you connect me to Ms.Yen?
+        \n A : Just a moment, sir. I\’ll check and see if she\’s in. It looks like Ms.Yen is out of the office today. I\’d be happy to take a message.
+        \n B: Hmmm. Well she told me she would call me back today. I\’m expecting some blueprints to be sent to me.
+        \n A: OK. I can leave her a message, sir, and perhaps she will call this afternoon.
+        \n B: Yeah, that\’s a good idea. My name is Peter Mok and I\’m with OntCan Enterprises. My number is 8766-4560.
+        \n A: That was Peter Mai?
+        \n B: Peter Mok. M-O-K.
+        \n A: OK. You were expecting some blueprints this afternoon. I will ask Ms. Yen to call you back as soon as possible.
+        \n B: Yes, and it\’s rather urgent. Thanks for your help.
+        \n A: It was my pleasure
+        \n\n<b><font color="#FF1565C0"><font size="18">Tình huống hỏi mua hàng</font></font></b>
+        \n\n A: Good morning, Camera City. This is Anna. How can I help you?
+        \n B: Hello, this is Daniel Wang calling from Image Studios. I\’d like to enquire about ordering twenty handy cams, please.
+        \n A: Certainly. Do you choose any model?
+        \n B: Yes, I\’m interested in the Sony HDR-TG1.
+        \n A: The Sony HDR-TG1 – just a minute. Yes, this model costs US$998, and we can offer you a discount of seven percent for bulk purchases.
+        \n B: Could you send me a quote, please?
+        \n A: Certainly. Would you prefer to receive the quote by email or fax?
+        \n B: Fax, please. The number is 310-789-3450.
+        \n A: Could you repeat the number, please?
+        \n B: Sure. That\’s 310-789-3450.
+        \n A: 310-789-3450. And that\’s Daniel Wang, from Image Studios. Is that correct?
+        \n B: That\’s right.
+        \n A: I\’ll fax you the quotation for twenty units within the next fifteen minutes.
+        \n B Yes, could you also tell me when you\’d be able to deliver if we place an order today?
+        \n A: Certainly. May I call you back with this information?
+        \n B: Sure.
+        \n A: Thank you. Tell me your phone number, please.
+        \n B: The phone number is the same as the fax, and my extension is 106.
+        \n A: Extension 106. Thank you, Mr. Wang. I\’ll fax you the quote right away, and call you in about thirty minutes with the estimated delivery date.
+        \n B: Thanks.
+        \n A: You\’re most welcome, and have a nice day.
+    </string>
+    <string name="chaohoi">
+        <b><font color="#FFFF5252"><font size="20">1. Tổng hợp mẫu câu tiếng Anh giao tiếp cho người đi làm tình huống chào hỏi</font></font></b>
+        \n<b><font color="#FF1565C0"><font size="18">Mẫu câu chào hỏi mang tính trang trọng, lịch sự</font></font></b>
+        \n\n Good morning/ afternoon/ evening.\n (Chào buổi sáng/chiều/tối)
+        \n Đây là cách chào hỏi ngắn gọn, cơ bản và thông dụng nhất. Câu chào này sẽ thay đổi dựa trên điều kiện thời gian lúc gặp mặt. Cách chào hỏi này có thể dùng với đồng nghiệp, người lớn tuổi, khách hàng hay đối tác đều được.
+        \n\n Good/Nice to see you.\n (Rất vui được gặp bạn)
+        \n Cách chào hỏi này cũng khá phổ biến và thường gặp trong cuộc sống, đặc biệt là trong những bài mẫu hội thoại tiếng Anh giao tiếp cho người đi làm. Bạn có thể áp dụng cách chào này trong nhiều tình huống, cho mọi đối tượng khi cần sự trang trọng, lịch sự.
+        \n\n It\’s a pleasure to meet you (Hân hạnh được gặp bạn)
+        \n Cách chào này khá giống với Good/Nice to see you. Tuy nhiên, It\’s a pleasure to meet you thích hợp để sử dụng trong tình huống chào hỏi với khách hàng, đối tác trong công việc để thể hiện sự chuyên nghiệp.
+        \n\n I\’m glad/happy/ pleased to see you.\n (Tôi rất vui được gặp bạn)
+        \n Cách chào hỏi này cũng tương tự như It\’s a pleasure to meet you, là lời chào hỏi xã giao phù hợp trong những tình huống nơi công sở cần sự nghiêm túc, chỉn chu. Câu nói này nên nói sau lời chào để thể hiện sự thân thiện.
+        \n\n How do you do?\n (Bạn thế nào?)
+        \n Đây là cách chào hỏi thể hiện sự nghiêm túc, tôn trọng với người đối diện, ví dụ như người lần đầu tiên gặp mặt, đối tác kinh doanh, người lớn tuổi hơn,…
+        \n\n How have you been? hoặc How have you been doing?\n (Dạo này bạn thế nào?)
+        \n Đây là cách chào hỏi trang trọng hơn của “How are you?”  để bắt đầu một cuộc gặp gỡ, trò chuyện một cách lịch sự hơn. Tuy nhiên, cách hỏi này chỉ phù hợp với điều kiện bạn và người đối diện đã quen nhau trước đó.
+        \n\n<b><font color="#FF1565C0"><font size="18">Mẫu câu chào hỏi mang tính thân mật</font></font></b>
+        \n\n Hello/Hi (Xin chào)
+        \n Cách chào này quá quen thuộc, phổ biến đến nỗi bất kỳ ai cũng biết. Hello và Hi đều là lời mở đầu chào hỏi đơn giản, ngắn gọn, phổ biến vì được sử dụng nhiều nhất. Một lưu ý là từ Hi sẽ thể hiện sự thân thiết, gần gũi hơn Hello.
+        \n\n Hey (Chào)
+        \n Bạn có thể dùng Hey để chào hỏi trong môi trường công sở nếu người đó thật sự thân thiết với bạn. Đó là những người đồng nghiệp, người bạn mà bạn có mối quan hệ tốt trong công việc, những người cùng cấp, cùng nhóm hoặc những người nhỏ tuổi hơn bạn.
+        \n\n What\’s new? (Có gì mới không?)
+        \n Với những mối quan hệ thân thiết, sau Hi/ Hello/ Hey chúng ta có thể tiếp tục hỏi “What\’s new?”. Câu nói này vừa mang ý nghĩa hỏi xem có tin tức gì mới không, vừa có thể coi là một câu chào hỏi đơn giản, thân thiết và bày tỏ sự quan tâm mà không nhất thiết phải nhận câu trả lời.
+        \n\n Long time no see (Lâu quá rồi không gặp)
+        \n Câu nói này dùng sau câu chào với mục đích bổ sung ý và thể hiện thêm cảm xúc cho lời chào. Bạn sẽ sử dụng câu này với những người đồng nghiệp đã quen lâu rồi để biểu hiện cảm xúc nhớ nhung, vui mừng khi được gặp lại.
+        \n\n How is it going? hoặc How are you doing?\n (Dạo này sao rồi?)
+        \n Sau khi chào Hello/Hi, để mạch hội thoại được tự nhiên, bạn nên tiếp tục bằng câu hỏi này. Đây là câu hỏi nhưng mang tính chất chào hỏi là chính. Lưu ý :
+        \n + How do you do? : là cách hỏi lịch sự, trang trọng.
+        \n + How is it going? How are you doing?” : là cách hỏi gần gũi, thân thiết.
+    </string>
+    <string name="nhahang">
+        <b><font color="#FFFF5252"><font size="20">1. Mẫu hội thoại khi đến nhà hàng</font></font></b>
+        \n\n Would you like me to take your coat?.
+        \n Dịch: Anh có muốn tôi cất áo khoác giúp hay không?
+        \n\n Yes, please.
+        \n Dịch: Vâng, cảm ơn!
+        \n\n How many persons in your group?
+        \n Dịch: Anh chị đi cùng với nhóm bao nhiêu người?
+        \n\n A table for four, please
+        \n Dịch: Một bàn cho bốn người, cảm ơn
+        \n\n Do you have a reservation?
+        \n Dịch: Anh đã đặt bàn chưa ạ?
+        \n\n Yes, my friend is Mr. Lam
+        \n Dịch: Chúng tôi đã đặt, bạn của tôi là anh Lâm
+        \n\n Okay Sir, your table is now ready.
+        \n Dịch: Bàn của anh đã chuẩn bị xong.
+        \n\n Please follow me in this way.
+        \n Dịch: Mời anh theo tôi đi lối này.
+        <b><font color="#FFFF5252"><font size="20">2. Mẫu hội thoại tình huống chọn món ăn, đồ uống</font></font></b>
+        \n\n Would you like to have some wine while you\’re waiting for the meal?
+        \n Dịch: Ông có muốn dùng chút rượu trong thời gian chờ đồ ăn không?
+        \n\n I don\’t like to drink anything alcoholic now. But I\’m thirsty, do you have anything to recommend?
+        \n Dịch: Tôi không muốn uống đồ có cồn bây giờ. Nhưng tôi đang khát, anh có thể gợi ý loại nước uống gì không?
+        \n\n Well, I think you could try our fruit juice.
+        \n Dịch: Ông có thể dùng thử nước ép trái cây của nhà hàng chúng tôi.
+        \n\n What kind of fruit juice do you have?
+        \n Dịch: Có những loại nướp ép trái cây nào vậy?
+        \n\n I\’d suggest you try our Negroni. It\’s mixed with pineapple and apple juice.
+        \n Dịch: Tôi xin đề cử ông dùng thử Negroni ạ. Nó được kết hợp bởi nước ép dứa và táo.
+        \n\n Sound good. I would like to have one now, please
+        \n Dịch: Nghe ổn đấy. Cho tôi một ly.
+        \n\n So, you would like to have one Negroni, right?
+        \n Dịch: Vâng, ông muốn một Negroni phải không ạ?
+        \n\n Yes
+        \n Dịch: Đúng thế.
+        \n\n Thank you, sir. I\’ll be back with your order soon.
+        \n Dịch: Cảm ơn ngài. Tôi sẽ mang nước ép trái cây đến cho ngày ngay.
+
+    </string>
+    <string name="xaydung">
+ <b><font color="#FFFF5252"><font size="20">1. Site Meeting and Reports. (Cuộc họp công trường và báo cáo).</font></font></b>
+        \n\n Mr. David: John, we will have a weekly meeting every Monday, starting at 9 a.m. Please make reports for the meeting.
+        \n\n John: Yes sir. Where will the meeting take place?
+        \n\n Mr. David: At the contractor\’s site office. We will check work progress to adjust the program for the coming week.
+        \n\n John: I got it. At least two days before the weekly meeting, I will submit to you any problems to be discussed beyond everyday works on site.
+        \n\n Mr. David: For daily works, you will submit a daily report at 10 a.m. the following day. Concerning report forms please work with me. I\’ll give you all the necessary forms.
+        \n\n John: OK, Mr. David. I will work with you right after the meeting, if you are available.
+        \n\n Mr. David: No problem.
+        \n\n John: Thank you.
+        \n\n<b><font color="#FFFF5252"><font size="20">Thảo luận dự thầu và hợp đồng</font></font></b>
+        \n\n Mr. Peck : OK, gentlemen. We are now on site. Mr.Ha will brife you on boundaries, monument  and reference level.
+        \n\n Mr.Do : Thank you very much, Mr.Peck. After the site handing over, I will submit to you our site organization layout: Site office, materials and equipment store, open materials park, workshops,  latrines, etc.
+        \n\n Mr.Ha : Please follow me. I will show you the site boundaries first.
+        \n\n Mr.Ba : OK for the boundaries now. Where will be the site ingress and egress ?
+        \n\n Mr.Ha : Please come over there with me.The site ingress and egress will be the same right here. I have made sketch for you. Here it is. Your site entrance center line will be distanced 50m from the guard-station over there.
+        \n\n Mr.Do : Thank you for the sketch.
+        \n\n Mr.Ha : In my sketch, I have shown the locations of the monument and the benchmark. Please follow me to see on place.
+    </string>
+    <string name="dulich">
+        <b><font color="#FFFF5252"><font size="20">1. Mẫu hội thoại tình huống Tiếng Anh tư vấn địa điểm du lịch</font></font></b>
+        \n\n A: Good morning! How can I help you? \n (Xin chào! Tôi có thể giúp anh chuyện gì không?)
+        \n\n B: Hello! I have some days off next week. I\’m going to travel somewhere but I don\’t have any good ideas. Could you recommend me some beautiful places in Viet Nam? \n (Xin chào. Tôi được nghỉ vào tuần tới. Tôi đang dự định đi du lịch ở đâu đó nhưng tôi không có ý tưởng nào cho việc này. Cô có thể gợi ý cho tôi vài địa điểm đẹp ở Việt Nam không?)
+        \n\n A: Of course. How long is your holiday?\n (Dĩ nhiên. Kỳ nghỉ của anh kéo dài trong thời gian bao lâu?)
+        \n\n B: Just 3 days.\n (Chỉ 3 ngày thôi)
+        \n\n A: So, What do you think of Da Nang?\n (Vậy, anh nghĩ gì nếu đi du lịch ở Da Nang?)
+        \n\n B: Da Nang? What’s special thing in Da Nang?\n (Đà Nẵng ư? Du lịch ở Đà Nẵng có gì đặc biệt?)
+        \n\n A: You can visit Ba Na Hills and go to My Khe beach. You can also watch the show at Dragon Bridge and enjoy the view at Hai Van pass.\n (Bạn có thể ghé thăm núi Bà Nà, tới bãi biển Mỹ Khê. Bạn cũng có thể xem buổi trình diễn ở Cầu Rồng và ngắm cảnh ở đèo Hải Vân nữa.)
+        \n\n B: B: Ohh, that\’s sound good.\n (Ohh, có vẻ hay nhỉ)
+        \n\n A: Here\’s our Da Nang brochure. Have a look.\n (Đây là sách du lịch Đà Nẵng. Mời anh xem.)
+        \n\n B: OK. Thank you.\n (OK.Cảm ơn cô.)
+        \n\n A: You’re welcome.\n (Không có gì.)
+       \n\n<b><font color="#FFFF5252"><font size="20">2. Mẫu hội thoại tình huống Tiếng Anh đặt vé máy bay du lịch</font></font></b>
+        \n\n A: Hello, sir! How can I help you?\n (Xin chào anh. Tôi có thể giúp gì cho anh?)
+        \n\n B: I want to book a ticket for a flight to Ho Chi Minh City for the first of June.\n (Tôi muốn đặt một vé đi TP Hồ Chí Minh vào ngày mùng 1 tháng Sáu.)
+        \n\n A: Give me a second, please.\n (Vui lòng đợi tôi trong giây lát)
+        \n\n B: Ok I can wait.\n (Được rồi)
+        \n\n A: Flight No 981 leaves at 5.40 PM on June 1st. Is that OK with you?\n (Một chuyến bay số 981 rời lúc 5.40 chiều ngày mùng 1 tháng 6. Giờ đó có tiện cho anh không ạ?)
+        \n\n B: That\’s great.\n (Tốt thôi)
+        \n\n A: Do you want economy class or first class ticket?\n (Anh muốn sử dụng vé hạng thường hay vé hạng nhất?)
+        \n\n B: I choose economy class ticket.\n (Tôi chọn vé hạng thường.)
+        \n\n A: Do you have any other questions?\n (Anh có gì thắc mắc muốn hỏi thêm không ạ?)
+        \n\n B: When do I have to check in before the flight?\n (Khi nào thì tôi phải làm thủ tục check in trước khi bay?)
+        \n\n A: You have to be there an hour before the departure time. Here is your ticket. Remember the flight number is AA 981, leaving from gate 8.\n (Anh phải có mặt ở đây sớm 1 tiếng trước giờ máy bay khởi hành. Vé của anh đây. Anh nhớ là chuyến bay số hiệu AA 981, cổng số 8.)
+        \n\n B: Thank you.\n (Cảm ơn cô.)
+        \n\n A: Thank you. Have a wonderful trip.\n (Cảm ơn. Hy vọng anh có một chuyến du lịch vui vẻ)
+        \n\n<b><font color="#FFFF5252"><font size="20">3. Mẫu hội thoại tình huống Tiếng Anh dẫn đoàn du lịch</font></font></b>
+        \n\n Guide: If you have any questions, please don\’t hesitate to ask me.\n (Nếu các bạn có bất kỳ câu hỏi nào, hãy đừng ngần ngại hỏi tôi nhé)
+        \n\n Man: I have a question.\n (Tôi có câu hỏi.)
+        \n\n Guide: Sure, what\’s that?\n (Vâng, anh muốn hỏi gì ạ?)
+        \n\n Man: Where\’s the best restaurant around here?\n (Nhà hàng tuyệt nhất ở đâu quanh đây?)
+        \n\n Guide: Um… There are so many good restaurants here. My personal favorite is Nem Lui – Banh Xeo.\n (Um, có rất nhiều nhà hàng ăn ngon quanh đây. Sở thích riêng của tôi là bánh xèo.)
+        \n\n Man: How far is it from here?\n (Chúng ta còn cách nó bao xa?)
+        \n\n Guide: About 300m. It\’s going to come up on your right in a 10 minutes.\n (Khoảng 300m nữa. Nó nằm ở bên phải của anh sau khi chúng ta đi 10 phút nữa)
+        \n\n Man: Oh, and what time will we have lunch?\n (Mấy giờ chúng ta sẽ dùng bữa trưa nhỉ?)
+        \n\n Guide: We\’ll break at 11:45 to have lunch. (Chúng ta sẽ dừng ăn trưa lúc 11h45)
+    </string>
+    <string name="sale">
+         <b><font color="#FFFF5252"><font size="20">1. Sale tiếng Anh là gì? Tiếng Anh chuyên ngành Sales</font></font></b>
+        \n Sales tiếng Anh là gì? Chốt sale tiếng Anh là gì? Chuyên ngành Sales hay ngành bán hàng là vị trí quan trọng giúp thúc đẩy quá
+trình tiêu thụ sản phẩm và tìm kiếm đối tác cho doanh nghiệp. Nhân viên Sale có nhiệm vụ trực tiếp làm việc với khách hàng, tư
+vấn và khuyến khích họ đưa ra quyết định lựa chọn sản phẩm – dịch vụ phù hợp nhất. Đồng thời, nhân viên Sales cũng hỗ trợ chăm
+sóc và giải đáp các thắc mắc liên quan đến sản phẩm – dịch vụ trong quá trình tư vấn nhằm tăng doanh thu cho công ty.
+        \n Chẳng hạn, bạn muốn bán bánh Trung thu. Khách hàng quan tâm có nhu cầu tìm mua sản phẩm bánh Trung thu trên thị trường.
+Họ sẽ cần tư vấn và giới thiệu sản phẩm phù hợp với nhu cầu. Lúc này, nhân viên sales chính là người nắm bắt được tâm lý và yêu cầu
+của khách hàng để mang đến cho họ những lựa chọn và thuyết phục họ mua hàng. Có thể nói, nhân viên sales, bán hàng là người trực tiếp
+đẩy mạnh quá trình tiêu thụ sản phẩm, đẩy mạnh doanh thu.
+        \n Tiếng Anh chuyên ngành Sales cho phép nhân viên sales giao tiếp và chốt đơn hàng tốt hơn nhờ vốn ngoại ngữ lưu loát.
+Qua đó, các thuật ngữ liên quan đến bán hàng cũng được trình bày rõ ràng cho khách hàng hiểu hơn.
+        \n<b><font color="#FFFF5252"><font size="20">2. Vị trí nào của chuyên ngành Sale cần tiếng Anh chuyên ngành?</font></font></b>
+        \n Bạn đang quan tâm đến chuyên ngành Sales? Nhưng cơ hội việc làm của ngành nghề này như thế nào? Con số dưới đấy chắc chắn sẽ khiến bạn
+giật mình đấy. Hơn 85% lãnh đạo và chủ doanh nghiệp các công ty đều có xuất phát điểm từ vị trí Sales.
+        \n Có thể con số này sẽ khiến bạn ngạc nhiên. Tuy nhiên, để bước lên những bậc thăng tiến đó, bạn cần hiểu rõ về các vị trí, kỹ năng yêu
+cầu cũng như cơ hội việc làm của chuyên ngành Sales. Và thực tế, tất cả các vị trí dưới đây đều cần đến tiếng Anh chuyên ngành Sales.
+         \n<b><font color="#FF1565C0"><font size="18">2.1. Saleman</font></font></b>
+        \n Saleman hay còn được gọi là Nhân viên kinh doanh , nhân viên sals là những người thực hiện công việc bán hàng hay tiếp thị sản phẩm cho công ty/ doanh nghiệp.
+        \n Nhiệm vụ quan trọng của bộ phận này là tiếp xúc trực tiếp và tư vấn, tìm hiểu nhu cầu, giải đáp thắc mắc cho khách hàng về sản phẩm, dịch vụ…
+Từ đó, vị trí này sẽ thúc đẩy hành vi mua hàng và đóng góp lợi nhuận vào hoạt động của công ty.
+        \n Nếu có tiếng Anh chuyên ngành, bạn sẽ phát triển và có mức thu nhập cao hơn. Bởi bạn cần nói chuyện và khiến cho khách hàng hiểu được
+sản phẩm – dịch vụ của mình cho nên nói cách khách, tiếng Anh giống như cầu nối giữ bạn với khách hàng.
+         \n<b><font color="#FF1565C0"><font size="18">2.2. Sales representative</font></font></b>
+        \n Sale representative là vị trí cao hơn Saleman một bậc. Công việc của họ bao gồm những công việc của Saleman tuy nhiên thiên về giấy tờ, thủ tục như xác nhận đơn hàng,
+ký hợp đồng, tìm hiểu hoạt động kinh doanh của đối thủ, mở rộng thị trường cạnh tranh thông qua hệ thống phân phối. Vốn tiếng Anh chuyên ngành sẽ giúp bạn rất nhiều trong
+việc soạn thảo văn bản, hợp đồng đồng thời hỗ trợ giao tiếp với khách hàng lưu loát hơn.
+        \n<b><font color="#FF1565C0"><font size="18">2.3. Sales Excutive</font></font></b>
+        \n Đây là vị trí điều hành kinh doanh theo từng khu vực, từng vùng hoặc tùy thuộc vào kinh nghiệm của người trực tiếp đảm nhận dựa trên sự phân công của công ty. Sales Excutive có nhiệm vụ thực hiện các kế hoạch kinh doanh sau quá trình điều tra, khảo sát, lập kế hoạch theo từng giai đoạn, quản lý và theo dõi tiến độ của Saleman và Sales Representative.
+        \n Càng lên đến những vị trí cao của chuyên ngành Sales, bạn càng cần đến tiếng Anh chuyên ngành để đọc hiểu các văn bản, làm việc với đối tác khách hàng. Lúc này, phạm vị khách hàng, đối tác của bạn sẽ mở rộng ra đồng nghĩa với việc bạn cần chuyên nghiệp hơn trong giao tiếp, cách làm việc… Vì vậy sở hữu một vốn tiếng Anh chuyên ngành sẽ là một điểm cộng vô cùng lớn cho bạn.
+        \n<b><font color="#FF1565C0"><font size="18">2.4. Sales Supervisor</font></font></b>
+        \n Một vị trí không kém phần quan trọng trong ngành Sales chính là Sales Supervisor. Vị trí này là người giám sát kinh doanh có trách nhiệm kiểm tra, giám sát các nhân viên bán hàng, báo cáo tình hình với cấp trên. Nếu nhiên viên Saleman chưa thực hiện tốt công việc, họ sẽ được Sales Supervisor nhắc nhở và training cách thức bán hàng, tư vấn sản phẩm – dịch vụ.
+        \n Tại vị trí này, bạn không chỉ cần làm việc với khách hàng, đối tác mà còn phải trực tiếp quản lý nhân viên các cấp. Vì vậy, trình độ tiếng Anh của bạn sẽ phản ánh vị trí cũng như năng lực của người quản lý cấp cao.
+        \n<b><font color="#FF1565C0"><font size="18">2.5. Sale manager/ Sales Director</font></font></b>
+    \n Đây là vị trí trưởng phòng kinh doanh với nhiệm vụ chính là quản lý và training đội ngũ nhân viên bán hàng, đảm bảo mục tiêu doanh thu, lập kế hoạch, duy trì, báo cáo hiệu quả kinh doanh. Đồng thời, trưởng phòng kinh doanh cần đề ra các phương án phù hợp, định hướng kinh doanh mới và phối hợp với các bộ phận khác trong công ty nhằm thúc đẩy quá trình tiêu thụ sản phẩm.
+    \n Đặc biệt, việc tìm ra thị trường, đối tác mới cũng rất quan trọng khi bạn giữ vai trò trưởng phòng Sales.
+        \n<b><font color="#FFFF5252"><font size="20">3. Vai trò của tiếng Anh đối với chuyên ngành Sales</font></font></b>
+        \n Tiếng Anh chuyên ngành là một trong những kỹ năng quan trọng nếu bạn muốn dấn thân vào ngành Sales. Đặc điểm của ngành Sales là bán hàng nghĩa là bạn cần giao tiếp và thấu hiểu khách hàng để đáp ứng được nhu cầu của họ. Từ đó tăng doanh thu cho công ty/ doanh nghiệp.
+        \n Những bạn không chỉ làm việc với các khách hàng nội địa mà nếu muốn phát triển hơn, bạn cần tiếp cận được với cả những khách hàng, đối tác nước ngoài. Chính vì vậy, tiếng Anh sẽ trở thành cầu nối giúp bạn tiếp cận khách hàng tiếng Anh dễ dàng hơn, bạn sẽ được khách hàng và cấp trên đánh giá cao hơn.
+        \n Những bạn không chỉ làm việc với các khách hàng nội địa mà nếu muốn phát triển hơn, bạn cần tiếp cận được với cả những khách hàng, đối tác nước ngoài. Chính vì vậy, tiếng Anh sẽ trở thành cầu nối giúp bạn tiếp cận khách hàng tiếng Anh dễ dàng hơn, bạn sẽ được khách hàng và cấp trên đánh giá cao hơn.
+        \n Như vậy, dù khả năng thuyết phục của bạn có tốt đến đâu thì cũng khó có thể bán hàng thành công. Kỹ năng Đọc – Viết hỗ trợ bạn trong việc trao đổi email, giấy tờ và soạn thảo hợp đồng, từ đó giúp bạn có nhiều cơ hội hơn.
+    </string>
+    <string name="truonghoc">
+        <b><font color="#FFFF5252"><font size="20">Các môn học trong tiếng Anh</font></font></b>
+        \n- Algebra: /\ˈæl.dʒə.brə/ đại số
+        \n- Art /ɑːt/: nghệ thuật
+        \n- Biology /baɪ\ˈɒl.ə.dʒi/ sinh học
+        \n- Chemistry /\ˈkem.ɪ.stri/ hóa học
+        \n- Geography /dʒi\ˈɒɡ.rə.fi/ địa lý
+        \n- Geometry /dʒi\ˈɒm.ə.tri/: hình học
+        \n- History /\ˈhɪs.tər.i/ lịch sử
+        \n- Information technology: tin học, công nghệ thông tin
+        \n- Literature /\ˈlɪt.rə.tʃər/ văn học
+        \n- Martial art /ˌmɑː.ʃəl \ˈɑːt/ võ thuật
+        \n- Maths /mæθs/ toán
+        \n- Music /\ˈmjuː.zɪk/ âm nhạc
+        \n- Physics: /\ˈfɪz.ɪks/ vật lý
+        \n- Science /\ˈsaɪ.əns/: khoa học
+        \n<b><font color="#FFFF5252"><font size="20">Các cấp học và trường học trong tiếng Anh</font></font></b>
+        \n- Academy /ə\ˈkæd.ə.mi/ Học viện
+        \n- College /\ˈkɒl.ɪdʒ/ Cao đẳng
+        \n- High school /\ˈhaɪ ˌskuːl/ Phổ thông trung học
+        \n- International school /ˌɪn.tə\ˈnæʃ.ən.əl ˌskuːl / trường quốc tế
+        \n- Kindergarten /\ˈkɪn.dəˌɡɑː.tən/ Trường mẫu giáo
+        \n- Nursery school /\ˈnɜː.sər.i ˌskuːl/ trường mầm non
+        \n- Primary school /\ˈpraɪ.mə.ri ˌskuːl/ Tiểu học
+        \n- Private school /\ˈpraɪ.vət skuːl / ˌ trường tư
+        \n- Public school /\ˈpʌb.lɪk skuːl / trường công
+        \n- Secondary school/\ˈsek.ən.dri ˌskuːl/ Phổ thông cơ sở
+        \n- University/ˌjuː.nɪ\ˈvɜː.sə.ti/ đại học
+        \n<b><font color="#FFFF5252"><font size="20">Các cơ sở vật chất trong tiếng Anh</font></font></b>
+        \n- Board /\ˈtʃɔːk.bɔːd/ bảng viết
+        \n- Book /bʊk/: Sách
+        \n- Canteen /kæn\ˈtiːn/ khu nhà ăn, căng-tin
+        \n- Chair /tʃeər/ ghế
+        \n- Chalk /tʃɔːk/ phấn
+        \n- Classroom /\ˈklɑːs.ruːm/: lớp học
+        \n- Computer room /kəm\ˈpjuː.tər ruːm / phòng máy tính
+        \n- Desk /desk/ bàn
+        \n- Fitting room /\ˈfɪt.ɪŋ ˌruːm/ hoặc changing room /\ˈtʃeɪn.dʒɪŋ ˌruːm/ phòng thay đồ
+        \n- Gymnasium /dʒɪm\ˈneɪ.zi.əm/: phòng thể chất
+        \n- Infirmary /ɪn\ˈfɜː.mər.i/ phòng y tế
+        \n- Laboratory /lə\ˈbɒr.ə.tər.i/ phòng thí nghiệm
+        \n- Library /\ˈlaɪ.brər.i/ thư viện
+        \n- Locker /\ˈlɒk.ər/ tủ đồ
+        \n- Marker /\ˈmɑː.kər/ bút viết bảng
+        \n- Parking area /\ˈpɑː.kɪŋ eə.ri.ə/ bãi đỗ xe
+        \n- Playground /\ˈpleɪ.ɡraʊnd/ sân chơi
+        \n- Schoolyard /\ˈskuːl.jɑːd/ sân trường
+    </string>
+    <string name="thucvat">
+         <b><font color="#FFFF5252"><font size="20">Tên các loài hoa quen thuộc trong tiếng Anh</font></font></b>
+        \n- daisy /\ˈdeɪzi/ : hoa cúc
+        \n– rose /rəʊz/ : hoa hồng
+        \n– narcissus /nɑːr\ˈsɪsəs/ : hoa thuỷ tiên
+        \n– orchid /\ˈɔːkɪd/ : hoa phong lan
+        \n– tulip /\ˈtjuːlɪp/ : hoa tu-lip
+        \n– sunflower /\ˈsʌnflaʊər/ : hoa hướng dương
+        \n– cyclamen /\ˈsaɪkləmən/ : hoa anh thảo
+        \n– carnation /kɑː\ˈneɪʃən/ : hoa cẩm chướng
+        \n– poppy /\ˈpɒpi/ : hoa anh túc
+        \n– pansy /\ˈpænzi/ : hoa păng-xê
+        \n– violet /\ˈvaɪələt/ : hoa vi-ô-lét
+        \n– mimosa /mɪ\ˈmoʊsə/ : hoa xấu hổ; hoa trinh nữ
+        \n– lily /\ˈlɪli/ : hoa huệ tây; hoa loa kèn
+        \n– gladiolus /ɡlædi\ˈoʊləs/  : hoa lay-ơn
+        \n– forget-me-not /fɚ\ˈɡet.mi.nɑːt/ : hoa lưu ly
+        \n– bougainvillea /ˌbuːɡən\ˈvɪliə/ : hoa giấy
+        \n– cactus flower /\ˈkæktəs \ˈflaʊər/ : hoa xương rồng
+        \n– camellia /kə\ˈmiːliə /: hoa trà
+        \n– chrysanthemum /krɪ\ˈsænθəməm/: cúc đại đóa
+        \n– cockscomb /\ˈkɒkskəʊm/: hoa mào gà
+        \n– daffodil /\ˈdæfədɪl/ : hoa thủy tiên vàng
+        \n– dahlia /\ˈdæliə/ : hoa thược dược
+        \n– flamboyant /flæm\ˈbɔɪənt/ : hoa phượng
+        \n– frangipani /ˌfrændʒi\ˈpæni/ : hoa sứ
+        \n– gerbera /\ˈdʒəːb(ə)rə /: hoa đồng tiền
+        \n– hibiscus /hɪ\ˈbɪskəs/ : hoa dâm bụt
+        \n– jasmine /\ˈdʒæzmɪn/ : hoa nhài
+        \n– lavender /\ˈlævəndər/: hoa oải hương
+        \n– lilac /\ˈlaɪlək/: hoa tử đinh hương
+        \n– lotus /\ˈloʊtəs/ : hoa sen
+        \n– magnolia /mæɡ\ˈnoʊliə/ : hoa mộc lan
+        \n– marigold /\ˈmæriɡoʊld/ : hoa vạn thọ
+        \n– tuberose /\ˈtjuːbərəʊz/ : hoa huệ
+        \n– apricot blossom /\ˈæprɪkɑːt \ˈblɑːsəm/ : hoa mai
+        \n– cherry blossom /\ˈtʃeri \ˈblɑːsəm/ : hoa đào
+        \n– dandelion /\ˈdændɪlaɪən/ : hoa bồ công anh
+        \n– moss rose /mɔːs roʊz/ : hoa mười giờ
+        \n– hydrangea /haɪ\ˈdreɪndʒə/ : cẩm tú cầu
+         \n<b><font color="#FFFF5252"><font size="20">Các loại trái cây trong tiếng Anh</font></font></b>
+        \n– Jackfruit: Mít
+        \n– Plum (plʌm): Mận
+        \n– Lemon (lɛmən): Chanh vàng
+        \n– Đu đủ (pə\ˈpaɪə): Papaya
+        \n– Apple (æpl): Táo
+        \n– Grape (greɪp): Nho
+        \n– Pomelo (pɒmɪləʊ): Bưởi
+        \n– Banana (bə\ˈnɑːnə): Chuối
+        \n– Peach (piːʧ): Đào
+        \n– Avocado (ævəʊ\ˈkɑːdəʊ): Bơ
+        \n– Watermelon (wɔːtəˌmɛlən): Dưa hấu
+        \n– Lychee: Vải
+        \n– Pomegranate (pɒmˌgrænɪt): Lựu
+        \n– Orange (ɒrɪnʤ): Cam
+        \n– Rambutan: Chôm chôm
+        \n– Cocunut: Dừa
+        \n– Durian: Sầu riêng
+        \n– Kumquat: Quất (hay còn gọi là quả tắc)
+        \n– Cherry (ʧɛri): Anh đào
+        \n– Strawberry (strɔːbəri): Dâu tây
+        \n– Pomegranate (pɒmˌgrænɪt): Lựu
+        \n– Pineapple (paɪnˌæpl): Dứa (hay còn gọi là quả thơm)
+        \n– Guava (gwɑːvə): Ổi
+        \n– Melon (\ˈmɛlən): Dưa
+        \n– Dragon fruit (drægən fruːt): Thanh long
+        \n– Longan: Nhãn
+        \n– Apricot (eɪprɪkɒt): Mơ
+        \n– Madarin: Quýt
+        \n– Mangosteen: Măng cụt
+        \n– Cantaloupe (kæntəˌluːp): Dưa vàng
+        \n– Blackberries (blækbəriz): Mâm xôi đen
+        \n– Ambarella: Trái cóc
+        \n– Soursop: Mãng cầu xiêm
+        \n– Passion fruit (\ˈpæʃən fruːt): Chanh dây
+        \n– Star apple (stɑːr \ˈæpl): Khế
+        \n– Mango (mæŋgəʊ): Xoài
+    </string>
+    <string name="dongvat">
+           <b><font color="#FFFF5252"><font size="20">Từ vựng về con vật nuôi</font></font></b>
+        \n- Dog (dɒg): Con chó
+        \n- Cat (kæt): Con mèo
+        \n- Chick (ʧɪk): Con gà con
+        \n- Turkey (\ˈtɜːki): Gà Tây (Con gà trong ngày Giáng sinh)
+        \n- Camel (\ˈkæməl): Con lạc đà
+        \n- White mouse (waɪt maʊs): Con chuột bạch
+        \n- Bull (bʊl): Con bò đực
+        \n- Cow (kaʊ): Con bò cái
+        \n- Calf (kɑːf): Con bê
+        \n- Piglet (\ˈpɪglət): Lợn con
+        \n- Dove (dəv): Bồ câu
+        \n- Duck (dək): Vịt
+        \n- Parrot (pærət): Con vẹt
+        \n- Goldfish (\’ɡoʊld,fɪʃ): Cá vàng
+        \n<b><font color="#FFFF5252"><font size="20">Động vật hoang dã</font></font></b>
+        \n- Fox (fɒks): Con cáo
+        \n- Lion (\ˈlaɪən): Con sư tử
+        \n- Bear (beə): Con gấu
+        \n- Elephant (\ˈɛlɪfənt): Con voi
+        \n- Squirrel (\ˈskwɪrəl): Con sóc
+        \n- Porcupine (\ˈpɔːkjʊpaɪn): Con nhím
+        \n- Hippopotamus (ˌhɪpəˈpɒtəməs): Con hà mã
+        \n- Raccoon (rə\ˈkuːn): Con gấu mèo
+        \n- Giraffe (ʤɪ\ˈrɑːf): Con hươu cao cổ
+        \n- Rhinoceros (raɪ\ˈnɒsərəs): Con tê giác
+        \n- Jaguar (\ˈʤægjʊə): Con báo đốm
+        \n- Chimpanzee (ˌʧɪmpən\ˈziː): Con hắc tinh tinh
+        \n- Donkey (\ˈdɒŋki): Con lừa
+        \n- Zebra (\ˈziːbrə): Con ngựa vằn
+        \n- Panda (\ˈpændə): Con gấu trúc
+        \n- Squirrel (\ˈskwɪrəl): Con sóc
+        \n- Kangaroo (ˌkæŋgə\ˈru): Con chuột túi
+        \n- Hedgehog (\ˈhɛʤhɒg): Con nhím
+        \n- Wolf (wʊlf): Con chó sói
+        \n- Alligator (\ˈælɪgeɪtə): Con cá sấu
+        \n- Bat (bæt): Con dơi
+        \n- Mammoth /mæməθ/: Voi ma mút
+        \n- Mink /mɪŋk/: Con chồn
+        \n- Puma – /pjumə/: Con báo
+        \n- Hare – /hɜr/: Thỏ rừng
+        \n- Coyote – /\’kɔiout/: Chó sói
+        \n- Chipmunk /\ˈʧɪpmʌŋk/: Sóc chuột
+        \n<b><font color="#FFFF5252"><font size="20">Các loài chim</font></font></b>
+        \n- Owl /aʊl/: Cú mèo
+        \n- Eagle /\ˈiːgl/: Chim đại bàng
+        \n- Woodpecker /\ˈwʊdˌpɛkə/: Chim gõ kiến
+        \n- Peacock /\ˈpiːkɒk/: Con công (trống)
+        \n- Sparrow /\ˈspærəʊ/: Chim sẻ
+        \n- Heron /\ˈhɛrən/: Diệc
+        \n- Swan /swɒn/: Thiên nga
+        \n- Falcon /\ˈfɔːlkən/: Chim ưng
+        \n- Ostrich /\ˈɒstrɪʧ/: Đà điểu
+        \n- Nest /nɛst/: Cái tổ
+        \n- Feather /\ˈfɛðə/: Lông vũ
+        \n- Talon /\ˈtælən/: Móng vuốt
+        \n<b><font color="#FFFF5252"><font size="20">Động vật dưới nước</font></font></b>
+        \n- Salmon /sæmən/: Cá hồi
+        \n- Sawfish /sɑfɪʃ/: Cá cưa
+        \n- Scallop /skɑləp/: Sò điệp
+        \n- Shark /ʃɑrk/: Cá mập
+        \n- Herring /\’heriɳ/: Cá trích
+        \n- Minnow /\’minou/: Cá tuế
+        \n- Sardine /sɑ:\’din/: Cá mòi
+        \n- Clam /klæm/: Con trai
+        \n- Slug /slʌg/: Sên
+        \n- Orca /\’ɔ:kə/: Cá kình
+        \n- Seagull /\ˈsiːgʌl/: Mòng biển
+        \n- Lobster /\ˈlɒbstə/: Tôm hùm
+        \n- Shellfish /\ˈʃɛlfɪʃ/: Ốc
+        \n- Jellyfish /\ˈʤɛlɪfɪʃ/: Con sứa
+    </string>
+    <string name="cothenguoi">
+         <b><font color="#FFFF5252"><font size="20">Về thân thể</font></font></b>
+        \n- Face (feɪs): Mặt
+        \n- Neck (nɛk): Cổ
+        \n- Chin (ʧɪn): Cằm
+        \n- Mouth (maʊθ): Miệng
+        \n- Arm (ɑːm): Tay
+        \n- Shoulder (\ˈʃəʊldə): Bờ vai
+        \n- Armpit (\ˈɑːmpɪt): Nách
+        \n- Chest (ʧɛst): Ngực
+        \n- Elbow (\ˈɛlbəʊ): Khuỷu tay
+        \n- Upper arm (\ˈʌpər ɑːm): Bắp tay
+        \n- Arm /ɑ:m/: Cánh tay
+        \n- Abdomen (\ˈæbdəmɛn): Bụng
+        \n- Thigh (θaɪ): Bắp đùi
+        \n- Knee (ni): Đầu gối
+        \n- Waist (weɪst): Thắt lưng
+        \n- Back (bæk): Lưng
+        \n- Buttocks (\ˈbʌtəks): Mông
+        \n- Leg (lɛg): Đôi chân
+        \n- Calf (kɑːf): Bắp chân
+        \n- Hip /hip/: Hông
+         \n<b><font color="#FFFF5252"><font size="20">Về tay</font></font></b>
+        \n- Fingernail (\ˈfɪŋgəneɪl): Móng tay
+        \n- Palm (pɑːm): Lòng bàn tay
+        \n- Ring finger (rɪŋ \ˈfɪŋgə): Ngón đeo nhẫn
+        \n- Index finger (\ˈɪndɛks \ˈfɪŋgə): Ngón trỏ
+        \n- Thumb: (θʌm) Ngón tay cái
+        \n- Middle finger (\‘midl \ˈfɪŋgə): Ngón giữa
+        \n- Little finger (\ˈlɪtl \ˈfɪŋgə): Ngón út
+        \n Knuckle (\ˈnʌkl): Khớp đốt ngón tay
+        \n- Wrist (rɪst): Cổ tay
+         \n<b><font color="#FFFF5252"><font size="20">Về chân</font></font></b>
+        \n- Big toe (bɪg təʊ): Ngón chân cái
+        \n- Toenail (\ˈtəʊneɪl): Móng chân
+        \n- Toe (təʊ): Ngón chân
+        \n- Instep (\ˈɪnstɛp): Mu bàn chân
+        \n- Ball (bɔːl): Xương ngón chân
+        \n- Ankle (\ˈæŋkl): Mắt cá chân
+        \n- Heel (hiːl): Gót chân
+        \n- Little toe (\ˈlɪtl təʊ): Ngón chân út
+       \n <b><font color="#FFFF5252"><font size="20">Về đầu</font></font></b>
+        \n- Hair (heə): Tóc
+        \n- Ear (ɪə): Tai
+        \n- Jaw (ʤɔ): Hàm
+        \n- Nostril (\ˈnɒstrɪl): Lỗ mũi
+        \n- Lip (lɪp): Môi
+        \n- Tongue (tʌŋ): Lưỡi
+        \n- Tooth (tuːθ): Răng
+        \n- Eyelid (\ˈaɪlɪd): Mí mắt
+        \n- Eyebrow (\ˈaɪbraʊ): Lông mày
+        \n- Jaw (ʤɔ): Hàm
+        \n- Sideburns (\ˈsaɪdbɜːnz): Tóc mai
+        \n- Forehead (\ˈfɒrɪd): Trán
+        \n- Iris (\ˈaɪərɪs): Mống mắt
+        \n- Part (pɑːt): Tóc rẽ ngôi
+        \n- Mustache (məs\ˈtɑːʃ): Ria mép
+        \n- Beard (bɪəd): Râu
+        \n- Cheek (tʃi:k): Má
+        \n- Nose (nouz): Mũi
+        \n- Nostril (\‘nɔstril): Lỗ mũi
+        \n- Eye (ai): Mắt
+        \n- Eyelashes (\ˈaɪlæʃ): Lông mi
+        \n- Iris (\‘aiəris): Mống mắt
+    </string>
+    <string name="nhacua">
+         <b><font color="#FFFF5252"><font size="20">Từ vựng về nhà cửa tiếng Anh</font></font></b>
+        \n<b>Từ vựng về các loại nhà ở trong tiếng Anh</b>
+        \n- Apartment /ə\ˈpɑːtmənt/ căn hộ UK usually flat /flæt/
+        \n- Apartment building: tòa nhà chia thành căn hộ, tòa căn hộ
+        \n- Basement apartment: căn hộ nằm dưới cùng của tòa nhà, dưới cả mặt đất thường có chi phí thuê sẽ rẻ hơn rất nhiều và thường không có sự thoải mái tiện nghi
+        \n- Bedsit/ bed-sitting room: căn phòng nhỏ cho thuê bao gồm giường, bàn ghế, nơi để nấu ăn nhưng không có phòng vệ sinh riêng biệt
+        \n- Block of flats: các căn hộ thường được cho thuê để ở, người thuê không có quyền sở hữu với căn hộ cũng như những không gian chung
+        \n- Bungalow /bʌŋgələʊ/ nhà gỗ một tầng
+        \n- Cabin: buồng
+        \n- Condominium: chung cư. Tuy nhiên với condominium thì các căn hộ được bán cho những người sở hữu khác nhau.
+        \n- Cottage /kɒtɪʤ/ nhà ở vùng nông thôn
+        \n- Detached house /dɪˈtæʧt haʊs/ nhà biệt lập không chung tường với nhà nào
+        \n- Duplex hay duplex house: căn hộ ngăn cách bằng bức tường ở giữa thành 2 căn hộ riêng biệt hoặc căn nhà 2 tầng với mỗi tầng là 1 căn hộ hoàn chỉnh,
+        \n- Flat: căn hộ nhưng lớn hơn và có thể chiếm diện tích cả một tầng
+        \n- House / haʊs/ nhà
+        \n- Palace: cung điện
+        \n- Penthouse: một căn hộ đắt tiền, hoặc thiết lập các phòng ở phía trên cùng của một khách sạn hoặc nhà cao tầng
+        \n- Semi-detached house /sɛmi-dɪ\ˈtæʧt haʊs/ nhà bán biệt lập (nhà có một bên có chung tường với nhà khác)
+        \n- Studio apartment(studio flat), efficiency apartment: căn hộ nhỏ chỉ có duy nhất một phòng, một phòng tắm và một khu vực nhà bếp để nấu nướng
+        \n- Tent: cái lều
+        \n- Terraced house /tɛrəst haʊs/ một nhà trong một dãy nhà
+        \n- Timeshare /\ˈtaɪm.ʃeər/ căn hộ sở hữu chung một nhóm người, mỗi người có thể sử dụng trong một thời gian/giai đoạn nhất định
+        \n- Townhouse: nhiều nhà chung vách
+        \n- Tree house: nhà dựng trên cây
+        \n- Villa /vɪlə/ biệt thự
+        \n- Villa: biệt thự
+    </string>
+    <string name="giadinh">
+       <b><font color="#FFFF5252"><font size="20">Từ vựng tiếng Anh về các thành viên trong gia đình</font></font></b>
+        \n<b>Từ vựng tiếng Anh về thế hệ lớn hơn mình</b>
+        \n- Grandparents /\ˈɡrænpeərənt/ Ông bà
+        \n- Grandfather /\ˈɡrænfɑːðə(r)/ Ông ngoại/ Ông nội
+        \n- Grandmother /\ˈɡrænmʌðə(r)/ Bà ngoại/ bà nội
+        \n- Aunt /ɑːnt/ Cô/ dì
+        \n- Uncle /\ˈʌŋkl/ Cậu/ chú
+        \n- Cousin /\ˈkʌzn/ Anh chị em họ
+        \n- Father-in-law /\ˈfɑːðər ɪn lɔː/ Bố chồng/ vợ
+        \n- Mother-in-law /\ˈmʌðər ɪn lɔː/ Mẹ chồng/ vợ
+        \n- Sister-in-law /\ˈsɪstər ɪn lɔː/ Chị dâu / em dâu
+        \n- Brother-in-law /\ˈbrʌðər ɪn lɔː/ Anh rể, em rể
+        \n<b>Từ vựng về các thành viên trong gia đình</b>
+        \n- Parents /\ˈpeərənt/ Ba mẹ
+        \n- Stepparent /\ˈstepˌpeə.rənt/ Cha mẹ kế
+        \n- Mother /\ˈmʌðə(r)/ Mẹ
+        \n- Father /\ˈfɑːðə(r)/ Bố
+        \n- Sibling /\ˈsɪblɪŋ/ Anh chị em ruột
+        \n- Spouse /spaʊs/ Vợ chồng
+        \n- Husband /\ˈhʌzbənd/ Chồng
+        \n- Wife /waɪf/ Vợ
+        \n- Child /Children/tʃaɪld/ \ˈtʃɪldrən/ Con cái
+        \n- Daughter /\ˈdɔːtə(r)/ Con gái
+        \n- Son /sʌn/ Con trai
+    </string>
+    <string name="nameHTD">THÌ HIỆN TẠI ĐƠN</string>
+    <string name="nameHTTD">THÌ HIỆN TẠI TIẾP DIỄN</string>
+    <string name="nameHTHT">THÌ HIỆN TẠI HOÀN THÀNH</string>
+    <string name="noidungHTD">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \n- Nói về một thói quen lặp đi lặp lại hằng ngày
+        \n- Nói về sự thật, chân lý hiển nhiên
+        \n- Nói về khả năng của ai đó
+        \n- Nói về lịch trình định sẵn thường xuyên, quy trình
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font color="#FFFF8F00"><font size="18">\n1.1. ĐỘNG TỪ \"TO BE\"</font></font>
+        <font size="21">\n\n\t<b>S + am/is/are + N/Adj</b></font>\n\n
+        <u>VD:</u>
+        \n- He is a lawyer. (Ông ấy là một luật sư)
+        \n- I am a student. (Tôi là sinh viên)
+        <font color="#FFFF8F00"><font size="18">\n1.2. ĐỘNG TỪ THƯỜNG</font></font>
+        <font size="21">\n\n\t<b>S + V(s/es)</b></font>\n\n
+        <u>VD:</u>
+        \n- He usually gets up early. (Anh ấy thường xuyên dậy sớm)
+        \n- I go to school every morning. (Tôi đi học vào mỗi sáng)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font color="#FFFF8F00"><font size="18">\n2.1. ĐỘNG TỪ \"TO BE\"</font></font>
+        <font size="21">\n\n\t<b>S + am/is/are + not + N/Adj</b></font>\n\n
+        <u>VD:</u>
+        \n- I am not a teacher. (Tôi không phải là giáo viên)
+        \n- We are not friends. (Chúng tôi không phải là bạn của nhau)
+        <font color="#FFFF8F00"><font size="18">\n2.2. ĐỘNG TỪ THƯỜNG"</font></font>
+        <font size="21">\n\n\t<b>S + do/does + not + V</b></font>\n\n
+        <u>VD:</u>
+        \n- She doesn\'t do homework every evening. (Cô ấy không làm bài về nhà mỗi tối)
+        \n- Harry doesn\'t take a nap every day. (Harry không ngủ trưa mỗi ngày)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font color="#FF689F38"><font size="18">\n3.1. CÂU HỎI YES/NO"</font></font>
+        <font color="#FFFF8F00"><font size="18">\n3.1.1. ĐỘNG TỪ \"TO BE\"</font></font>
+        <font size="21">\n\n\t<b>Q: Is/Am/Are (not) + S + N/Adj?
+                            \n\tA:
+                            \n + Yes, S + is/am/are
+                            \n + No, S + am not/isn\'t/aren\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Are you an engineer? (Bạn có phải là kỹ sư không?)
+        \nA: Yes, I am
+        <font color="#FFFF8F00"><font size="18">\n3.1.2. ĐỘNG TỪ THƯỜNG</font></font>
+        <font size="21">\n\n\t<b>Q: Do/Does (not) + S + V?
+                            \n\tA:
+                            \n + Yes, S + do/does
+                            \n + No, S + don\'t/doesn\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Does she go to work by taxi? (Cô ấy đi làm bằng taxi phải không?)
+        \nA: No, she doesn\'t
+        <font color="#FF689F38"><font size="18">\n3.2. CÂU HỎI BẮT ĐẦU BẰNG WH-"</font></font>
+        <font color="#FFFF8F00"><font size="18">\n3.1.2. ĐỘNG TỪ \"TO BE\"</font></font>
+        <font size="21">\n\n\t<b>Wh- + am/is/are + (not) + S + N/Adj</b></font>\n\n
+        <u>VD:</u>
+        \n- What do you do? (Bạn làm nghề gì?)
+        \n- How does she go to school? (Cô ấy đi học bằng phương tiện gì?)
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \n<b>Always: </b>Luôn luôn
+        \n<b>Usually: </b>Thường xuyên
+        \n<b>Oftens: </b>Thông thường
+        \n<b>Sometimes: </b>Thỉnh thoảng
+        \n<b>Rarely: </b>Hiếm khi
+        \n<b>Everyday: </b>Mỗi ngày
+        \n<b>Once a month: </b>Mỗi tháng 1 lần
+        \n<b>In the morning: </b>Vào buổi sáng
+        \n<b>Once in a bluemoon: </b>Một lần trong kì trăng xanh (Rất hiếm khi)
+        \n…
+    </string>
+    <string name="noidungHTTD">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nDiễn tả một hành động đang diễn ra tại thời điểm nói.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + am/is/are + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- I am listen to music. (Tôi đang nghe nhạc)
+        \n- They are singing a song together. (Họ đang hát cùng nhau một bài hát)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + am/is/are + not + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- I am not learning English at the moment. (Tôi đang không học Tiếng Anh lúc này)
+        \n- He is not feeding his dogs. (Anh ấy đang không cho những chú chó cưng ăn)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font color="#FF689F38"><font size="18">\n3.1. CÂU HỎI YES/NO"</font></font>
+        <font size="21">\n\n\t<b>Q: Is/Am/Are + S + V-ing?
+                            \n\tA:
+                            \n + Yes, S + is/am/are
+                            \n + No, S + am not/isn\'t/aren\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Are you taking a photo of me? (Bạn đang chụp ảnh tôi phải không?)
+        \nA: Yes, I am
+        \nQ: Is she going out with you? (Cô ấy đang đi chơi cùng bạn phải không?)
+        \nA: No, she isn\'t
+        <font color="#FF689F38"><font size="18">\n3.2. CÂU HỎI BẮT ĐẦU BẰNG WH-"</font></font>
+        <font size="21">\n\n\t<b>Wh- + am/is/are + S + V-ing?</b></font>\n\n
+        <u>VD:</u>
+        \n- What is he studying right now? (Cậu ấy đang học gì vậy?)
+        \n- What are you doing? (Bạn đang làm gì vậy?)
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \n<b>Now: </b>Bây giờ
+        \n<b>Right now: </b>Ngay bây giờ
+        \n<b>At the moment: </b>Ngay lúc này
+        \n<b>At present: </b>Hiện tại
+        \n<b>It\'s + (giờ cụ thể) + now: </b> Hiện đang là … giờ
+        \n<b>Look\!/Watch!: </b>Nhìn kìa!
+        \n<b>Listen\!: </b>Nghe này!
+        \n<b>Keep silent!: </b>Hãy im lặng!
+        \n<b>Watch out\! = Look out\!: </b>Coi chừng!
+        \n…
+    </string>
+    <string name="noidungHTHT">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nDiễn tả về một hành động đã hoàn thành cho tới thời điểm hiện tại mà không bàn về thời gian diễn ra hành động đó.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + have/has + V3</b></font>\n\n
+        <u>VD:</u>
+        \n- I have watched TV for 2 hours. (Tôi xem TV được 2 tiếng rồi)
+        \n- It has been 2 months since I first met him. (Đã 2 tháng rồi kể từ lần đầu tiên tôi gặp anh ấy)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + have/has + not + V3</b></font>\n\n
+        <u>VD:</u>
+        \n- He hasn\'t eaten this kind of food before. (Anh ấy chưa bao giờ ăn loại thức ăn này cả)
+        \n- He hasn\'t comeback to his hometown since 2000. (Anh ấy không trở lại quê hương của mình từ năm 2000)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font color="#FF689F38"><font size="18">\n3.1. CÂU HỎI YES/NO"</font></font>
+        <font size="21">\n\n\t<b>Q: Have/Has + S + V3?
+                            \n\tA:
+                            \n + Yes, S + have/has
+                            \n + No, S + haven\'t/hasn\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Have you ever travelled to America? (Bạn đã từng du lịch tới Mỹ bao giờ chưa?)
+        \nA: Yes, I have
+        \nQ: Has she arrived in London yet? (Cô ấy đã tới London chưa?)
+        \nA: No, she hasn\'t
+        <font color="#FF689F38"><font size="18">\n3.2. CÂU HỎI BẮT ĐẦU BẰNG WH-"</font></font>
+        <font size="21">\n\n\t<b>Wh- + have/has + S + V3?</b></font>\n\n
+        <u>VD:</u>
+        \n- What have you done with these ingredients? (Bạn đã làm gì với những nguyên liệu này?)
+        \n- How have you solved this difficult Math question? (Bạn làm thế nào để giải được câu hỏi Toán khó này?)
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \n<b>Just = Recently = Lately: </b>Gần đây, vừa, mới
+        \n<b>Already: </b>Đã…rồi
+        \n<b>Before: </b>Trước đây
+        \n<b>Ever: </b>Đã từng
+        \n<b>Never: </b>Chưa từng, không bao giờ
+        \n<b>For + (quãng thời gian): </b>Trong khoảng (for a year, for a long time,…)
+        \n<b>Since + (mốc thời gian): </b>Từ khi (Since 1992, since June,…)
+        \n<b>Yet: </b>Chưa (dùng trong câu phủ định và câu hỏi)
+        \n<b>So far = Until now = Up to now = Up to the present: </b>Cho đến bây giờ
+        \n…
+    </string>
+    <string name="nameHTHTTD">THÌ HIỆN TẠI HOÀN THÀNH TIẾP DIỄN</string>
+    <string name="noidungHTHTTD">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nChỉ hành động xảy ra trong quá khứ nhưng vẫn tiếp tục ở hiện tại và có khả năng
+         tiếp diễn trong tương lai.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + have/has + been + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- I have been studying at this school for 3 years. (Tôi đã học ở trường này được 3 năm)
+        \n- She has been playing sport for 1 month. (Cô ấy đã chơi thể thao được 1 tháng)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + have/has + not + been + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- I haven\'t been playing basketball for 5 years. (Tôi đã không chơi bóng rỗ được 5 năm rồi)
+        \n- He hasn\'t been playing games with me in a year. (Anh ấy đã không chơi trò chơi với tôi trong 1 năm)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font color="#FF689F38"><font size="18">\n3.1. CÂU HỎI YES/NO"</font></font>
+        <font size="21">\n\n\t<b>Q: Have/Has + S + been + V3?
+                            \n\tA:
+                            \n + Yes, S + have/has
+                            \n + No, S + haven\'t/hasn\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Have you been studying here for 1 hour yet? (Bạn đã học ở đây được 1 tiếng chưa?)
+        \nA: Yes, I have
+        \nQ: Has he been playing chess for 1 month? (Cậu ấy đã chơi cờ được 1 tháng chưa?)
+        \nA: No, he hasn\'t
+        <font color="#FF689F38"><font size="18">\n3.2. CÂU HỎI BẮT ĐẦU BẰNG WH-"</font></font>
+        <font size="21">\n\n\t<b>Wh- + have/has + S + been + V3?</b></font>\n\n
+        <u>VD:</u>
+        \n- What have you been doing here for 2 hours? (Bạn đã làm gì ở đây tận 2 tiếng?)
+        \n- Why has Nancy not been taking her medicines for the last 3 days? (Tại sao Nancy lại không uống thuốc trong 3 ngày vừa rồi?)
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \n<b>Since + (mốc thời gian) </b>(không rõ ràng)
+        \n<b>For + (thời gian chính xác) </b>
+        \n<b>All + (khoảng thời gian) </b>
+        \nTừ nhận biết gồm: <b>All day, all week, since, for, for long time, almost every day this week, recently,
+    lately, in the past week, in recent year, up until now, and sor far, at the moment,… </b>
+    </string>
+    <string name="nameQKD">THÌ QUÁ KHỨ ĐƠN</string>
+    <string name="noidungQKD">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nDiễn tả một hành động đã diễn ra ở quá khứ. Hoặc chưa từng xảy ra.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font color="#FFFF8F00"><font size="18">\n1.1. ĐỘNG TỪ \"TO BE\"</font></font>
+        <font size="21">\n\n\t<b>S + was/were + N/Adj</b></font>\n\n
+        <u>VD:</u>
+        \n- They were in Bangkok on their summer holiday 3 year ago. (Họ ở Băng Cốc vào kỳ nghỉ hè 3 năm trước)
+        \n- My computer was broken yesterday. (Máy tính của tôi đã bị hỏng hôm qua)
+        <font color="#FFFF8F00"><font size="18">\n1.2. ĐỘNG TỪ THƯỜNG</font></font>
+        <font size="21">\n\n\t<b>S + V2/ed</b></font>\n\n
+        <u>VD:</u>
+        \n- I meet my old friend at the shopping mall yesterday. (Tôi đã gặp người bạn cũ của mình trong trung
+        tâm mua sắm ngày hôm qua)
+        \n- I went to sleep at 11p.m last night. (Tôi đi ngủ lúc 11 giờ tối qua)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font color="#FFFF8F00"><font size="18">\n2.1. ĐỘNG TỪ \"TO BE\"</font></font>
+        <font size="21">\n\n\t<b>S + was/were + not + N/Adj</b></font>\n\n
+        <u>VD:</u>
+        \n- She wasn\'t very happy last night because of her son\'s bad behavior to her friends. (Tối qua cô ấy đã rất
+        không vui vì cách cư xử không tốt của con trai với bạn mình)
+        \n- We weren\'t at home yesterday. (Hôm qua chúng tôi không ở nhà)
+        <font color="#FFFF8F00"><font size="18">\n2.2. ĐỘNG TỪ THƯỜNG</font></font>
+        <font size="21">\n\n\t<b>S + did not + V</b></font>\n\n
+        <u>VD:</u>
+        \n- He didn\'t play football last Sunday. (Anh ấy đã không chơi bóng đá vào chủ nhật tuần trước)
+        \n- We didn\'t see him at the cinema last night. (Chúng tôi không trông thấy anh ta tại rạp chiếu
+        phim tối hôm qua)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font color="#FFFF8F00"><font size="18">\n3.1. ĐỘNG TỪ \"TO BE\"</font></font>
+        <font size="21">\n\n\t<b>Q: Was/Were + S + N/Adj?
+                            \n\tA:
+                            \n + Yes, S + was/were
+                            \n + No, S + wasn\'t/weren\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Did you visit President Ho Chi Minh Mausoleum with your class last weekend? (Bạn có đi thăm lăng
+        chủ tịch Hồ Chí Minh với lớp của bạn cuối tuần trước hay không?)
+        \nA: Yes, I did
+        \nQ: Did he oversleep and was late for school yesterday? (Có phải hôm qua cậu ngủ quên và đi học muộn không?)
+        \nA: No, he didn\'t
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \n<b>- Yesterday: </b>hôm qua
+        \n<b>- Last night/last week/last month/last year: </b>Tối qua/tuần trước/tháng trước/năm ngoái
+        \n<b>- Ago: </b>Cách đây (2 hours ago, 2 weeks ago,…)
+    </string>
+    <string name="nameQKTD">THÌ QUÁ KHỨ TIẾP DIỄN</string>
+    <string name="noidungQKTD">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nDiễn tả một hành động đang xảy ra ở quá khứ ở thời điểm xác định.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + was/were + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- We were just talking about it before you arrived. (Chúng tớ đang nói về chuyện đó ngay trước khi cậu đến)
+        \n- I was thinking about him last night. (Tôi đang nghĩ về anh ta tối qua)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + was/were + not + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- He wasn\'t working when his boss came yesterday. (Hôm qua anh ta đang không làm việc khi sếp của anh ta đến)
+        \n- I wasn\'t thinking about him last night. (Tôi đang không nghĩ về anh ta tối qua)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font size="21">\n\n\t<b>Q: Was/Were + S + V-ing?
+                            \n\tA:
+                            \n + Yes, S + was/were
+                            \n + No, S + wasn\'t/weren\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Was your mother going to the market at 7a.m yesterday? (Lúc 7 giờ sáng hôm qua mẹ cậu đang đi chợ có phải không?)
+        \nA: Yes, she was
+        \nQ: Were you thinking about him last night? (Cậu đang nghĩ về anh ta tối qua đúng không?)
+        \nA: No, I wasn\'t
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \nCác trạng từ chỉ thời gian trong quá khứ kèm theo thời điểm xác định:
+      \n<b>- At + giờ + thời gian trong quá khứ.</b>(at 12 o\'clock last night,…)
+      \n<b>- At this time + thời gian trong quá khứ.</b>(At this time 2 weeks ago,…)
+      \n<b>- In + năm. </b>(in 2000, in 2005)
+      \n<b>- In the past: </b>Trong quá khứ
+       \n- Trong câu có <b>when</b> khi diễn tả một hành động đang xảy ra và một hành động khác xen vào.
+        \n<u>VD:</u>
+        \nWhen i was singing in the bathroom, my mother came in. (Tôi đang hát trong nhà tắm thì mẹ tôi đi vào)
+        \n- Cân nhắc sử dụng thì <i>Quá khứ tiếp diễn</i> khi có xuất hiện các từ như: <b>While</b> (trong khi); <b>When</b> (Khi);
+        <b>at that time</b> (vào thời điểm đó)
+        \n<u>VD:</u>
+        \nShe was dancing while I was singing (Cô ấy đang múa trong khi tôi đang hát)
+    </string>
+    <string name="nameQKHT">THÌ QUÁ KHỨ HOÀN THÀNH</string>
+    <string name="noidungQKHT">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nDiễn tả một hành động diễn ra trước một hành động khác trong quá khứ. Hành động sau là ở thì quá khứ.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + had + PII(quá khứ phân từ)</b></font>\n\n
+        <u>VD:</u>
+        \n- He had slept when we came into the house. (Anh ấy đã ngủ khi chúng tôi vào nhà)
+        \n- They had finished their project right before the deadline last week. (Họ đã hoàn thành dự án của họ
+        ngay trước hạn chót vào tuần trước)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + had not + PII(quá khứ phân từ)</b></font>\n\n
+        <u>VD:</u>
+        \n- She hadn\'t completed her homework when she went to school. (Cô ấy vẫn không làm xong bài tập trước khi cô ấy đến lớp)
+        \n- They hadn\'t finished their lunch when I saw them. (Họ vẫn chưa ăn xong bữa trưa khi tôi thấy họ)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font size="21">\n\n\t<b>Q: Had + S + PII(quá khứ phân từ)?
+                            \n\tA:
+                            \n + Yes, S + had
+                            \n + No, S + hadn\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Had the film ended when you arrived at the cinema? (Bộ phim đã kết thúc khi bạn tới rạp chiếu phim phải không?)
+        \nA: Yes, It had
+        \nQ: Had you visited Sri Lanka before this trip? (Bạn đã đến Sri Lanka trước chuyến đi này phải không?)
+        \nA: No, I hadn\'t
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \nNhững từ hay xuất hiện trong thì này: <b>Until then, before, after, prior to that time, by the time,
+    for, as soon as, by,… When, when by, by the end of + (thời gian ở quá khứ)…</b>
+        \nLưu ý: Dùng <b>QKHT + before + QKĐ</b> và <b>After + QKHT, QKĐ.</b>
+        \n<b>- When: </b> Khi
+        \n<u>VD:</u>
+        \nWhen they arrived at the airpot, her flight had taken off. (Khi họ tới sân bay, chuyến bay của cô ấy đã cất cánh)
+        \n<b>- Before: </b> Trước khi
+        \n<u>VD:</u>
+        \nShe had done her homework before her mother asked her to do so. (Cô ấy đã làm bài tập về nhà trước khi mẹ cô ấy yêu cầu cô ấy làm như vậy)
+        \n<b>- After: </b> Sau khi
+        \n<u>VD:</u>
+        \nThey went home after they had eaten a big roasted chicken. (Họ về nhà sau khi đã ăn một con gà quay lớn)
+        \n<b>- By the time: </b> Vào thời điểm
+        \n<u>VD:</u>
+        \nHe had cleaned the house by the time her mother came back. (Cậu ấy đã lau xong nhà vào thời điểm mẹ cậu ấy về)
+
+    </string>
+    <string name="nameQKHTTD">THÌ QUÁ KHỨ HOÀN THÀNH TIẾP DIỄN</string>
+    <string name="noidungQKHTTD">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nDiễn tả một hành động đã và đang xảy ra trong quá khứ nhưng kết thúc trước một hành
+        động khác, hành động đó cũng có kết thúc trong quá khứ. Quá khứ hoàn thành tiếp diễn
+        mô tả tính chính xác của các hành động đã xảy ra.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + had been + V-ing(quá khứ phân từ)</b></font>\n\n
+        <u>VD:</u>
+        \n- I had been jogging for 2 hours before it rained. (Tôi đã chạy bộ 2 tiếng trước khi
+        trời đổ mưa)
+        \n- They had been playing chess before the quarrel. (Họ đã chơi cờ trước khi cãi nhau)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + had not been + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- I hadn\'t been doing my homework until my teacher reminded me. (Tôi đã không làm
+        bài tập về nhà cho đến khi giáo viên của tôi nhắc nhở)
+        \n- She hadn\'t been playing sports for 2 months due to a leg injury. (Cô ấy đã không
+        chơi thể thao trong 2 tháng do chấn thương ở chân)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font size="21">\n\n\t<b>Q: Had + S + been + V-ing(quá khứ phân từ)?
+                            \n\tA:
+                            \n + Yes, S + had
+                            \n + No, S + hadn\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Had they been playing sports after I get home? (Họ có chơi thể thao sau khi tôi
+        về nhà không?)
+        \nA: Yes, they had
+        \nQ: Had you been going somewhere after drinking? (Có phải bạn đã đi đâu đó sau khi
+        uống rượu?)
+        \nA: No, I hadn\'t
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \nThì quá khứ hoàn thành tiếp diễn có một số từ có xuất hiện nhiều trong câu như:
+        \n<b>Until then: </b>Cho đến lúc đó
+        \n<u>VD:</u>
+        \nUntil then, I had been cooking. (Cho đến lúc đó, tôi vẫn đang nấu ăn)
+        \n<b>By the time: </b>Vào lúc
+        \n<u>VD:</u>
+        \nBy the time Ronaldo kicked the ball, the goalkeeper had been stooping like heaven.
+        (Vào thời điểm Ronaldo sút bóng, thủ môn đã lom khom như trời giáng)
+        \n<b>Prior to that time: </b>Thời điểm trước đó
+        \n<u>VD:</u>
+        \nPrior to that time, the corona virus had been controlling by the goverment. (Thời
+        điểm trước đó, virus corona đã được chính phủ kiểm soát)
+        \nNgoài ra còn có các từ chỉ thời gian như: <b>before, after </b>cũng là dấu hiệu nhận
+        biết thì <i>quá khứ hoàn thành tiếp diễn.</i>
+
+    </string>
+    <string name="nameTLD">THÌ TƯƠNG LAI ĐƠN</string>
+    <string name="noidungTLD">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nDiễn tả một quyết định tại thời điểm nói.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font color="#FFFF8F00"><font size="18">\n1.1. ĐỘNG TỪ \"TO BE\"</font></font>
+        <font size="21">\n\n\t<b>S + will be + N/Adj</b></font>\n\n
+        <u>VD:</u>
+        \n- She\'ll be fine. (Cô ấy sẽ ổn thôi)
+        <font color="#FFFF8F00"><font size="18">\n1.2. ĐỘNG TỪ THƯỜNG</font></font>
+        <font size="21">\n\n\t<b>S + will + V</b></font>\n\n
+        <u>VD:</u>
+        \n- No worries, I will take care of the children for you. (Đừng lo, tôi sẽ chăm sóc bọn trẻ giúp bạn)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font color="#FFFF8F00"><font size="18">\n2.1. ĐỘNG TỪ \"TO BE\"</font></font>
+        <font size="21">\n\n\t<b>S + will not + be + N/Adj</b></font>\n\n
+        <u>VD:</u>
+        \n - We won\'t be friends anymore. (Chúng ta sẽ không tiếp tục làm bạn nữa)
+        <font color="#FFFF8F00"><font size="18">\n2.2. ĐỘNG TỪ THƯỜNG</font></font>
+        <font size="21">\n\n\t<b>S + will not + V</b></font>\n\n
+        <u>VD:</u>
+        \n- I won\'t tell her the truth. (Tôi sẽ không nói với cô ấy sự thật)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font color="#FFFF8F00"><font size="18">\n3.1. ĐỘNG TỪ \"TO BE\"</font></font>
+        <font size="21">\n\n\t<b>Q: Will + S + be + N/Adj?
+                            \n\tA:
+                            \n + Yes, S + will
+                            \n + No, S + won\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Will you be home tomorrow morning? (Sáng mai anh có ở nhà không?)
+        \nA: Yes, I will
+        <font color="#FFFF8F00"><font size="18">\n3.2. ĐỘNG TỪ THƯỜNG</font></font>
+        <font size="21">\n\n\t<b>Q: Will + S + V?
+                            \n\tA:
+                            \n + Yes, S + will
+                            \n + No, S + won\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Will you come back? (Anh có quay lại không?)
+        \nA: No, I won\'t
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \nTrạng từ chỉ thời gian:
+      <b>\n- In + thời gian. </b>(In 2 minutes)
+      <b>\n- Tomorrow: </b>Ngày mai
+      <b>\n- Next day: </b>Ngày hôm tới
+      <b>\n- Next week/ next month/ next year: </b>Tuần tới/ tháng tới/ năm tới
+        \nĐộng từ chỉ khả năng sẽ xảy ra:
+      <b>\n- Think/ believe/ suppose/ …: </b>Nghĩ/ tin/ cho là
+      <b>\n- Perhaps/ probably: </b>có lẽ
+      <b>\n- Promise: </b>Hứa
+    </string>
+    <string name="nameTLTD">THÌ TƯƠNG LAI TIẾP DIỄN</string>
+    <string name="noidungTLTD">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nDiễn tả một hành động xảy ra tại thời điểm xác định trong tương lai.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + will + be + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- I will be working from tomorrow. (Tôi sẽ đang làm việc từ ngày mai)
+        \n- I will be eating bread from noon tomorrow. (Tôi sẽ đang ăn bánh mì từ trưa mai)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + will not + be + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- I won\'t be working tomorrow. (Tôi sẽ không đang làm việc vào ngày mai)
+        \n- She won\'t be playing games tomorrow. (Cô ấy sẽ không đang chơi game vào ngày mai)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font size="21">\n\n\t<b>Q: Will + S + be + V-ing?
+                            \n\tA:
+                            \n + Yes, S + will
+                            \n + No, S + won\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Will you be studying next Tuesday? (Bạn sẽ đang học bài vào thứ ba tới chứ?)
+        \nA: Yes, I will
+        \nQ: Will he be playing games this weekend? (Anh ấy sẽ đang chơi game vào cuối tuần này phải không?)
+        \nA: No, he won\'t
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \nThì tương lai tiếp diễn trong câu có thể xuất hiện các trạng từ chỉ thời gian cùng với thời điểm xác định:
+     <b>\n- At this time/ at this moment + thời gian trong tương lai</b>
+        <u>\nVD:</u>
+        \n- At this point tomorrow, I will be working at the company. (Lúc này, ngày mai, tôi sẽ đang làm việc tại công ty)
+     <b>\n- At + giờ cụ thể + thời gian trong tương lai</b>
+        \n- At 2p.m tomorrow, I will be playing chess. (Vào lúc 2 giờ chiều ngày mai, tôi sẽ chơi cờ vua)
+        \nTừ nhận biết: <b>In the future, next year, next week, next time, soon</b>
+    </string>
+    <string name="nameTLHT">THÌ TƯƠNG LAI HOÀN THÀNH</string>
+    <string name="noidungTLHT">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nDiễn tả một hành động sẽ hoàn thành tại một thời điểm xác định trong tương lai.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + will + have + V3/ed</b></font>\n\n
+        <u>VD:</u>
+        \n- I will have finished my homework this weekend. (Tôi sẽ đang làm việc từ ngày mai)
+        \n- He will have completed his report by the end of this month. (Anh ấy sẽ hoàn thành báo cáo của mình vào cuối tháng này)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + will not + have + V3/ed</b></font>\n\n
+        <u>VD:</u>
+        \n- I won\'t finished my work this week. (Tôi sẽ chưa hoàn thành công việc của mình trong tuần này)
+        \n- She won\'t have discharged from the hospital until the end of next month. (Cô ấy sẽ chưa xuất viện cho đến cuối tháng sau)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font size="21">\n\n\t<b>Q: Will + S + have + V3/ed?
+                            \n\tA:
+                            \n + Yes, S + will
+                            \n + No, S + won\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Will you have graduted later this year? (Có phải bạn sẽ tốt nghiệp vào cuối năm nay?)
+        \nA: Yes, I will
+        \nQ: Will they have finished their homework in the next 2 hours? (Liệu họ có hoàn thành bài tập về nhà trong 2 giờ tối không?)
+        \nA: No, they won\'t
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \nTrong câu sử dụng thì tương lai hoàn thành thường xuất hiện các dấu hiệu sau:
+     <b>\nBy + thời gian trong tương lai</b>
+        <u>\nVD:</u>
+        \n- She will have finished her homework by 9p.m. (Cô ấy sẽ hoàn thành bài tập về nhà trước 9 giờ tối)
+     <b>\nBy the end of + thời gian trong tương lai</b>
+        <u>\nVD:</u>
+        \n- I will have finished my work report by the end of this month. (Tôi sẽ hoàn thành báo cáo công việc của mình vào cuối tháng này)
+     <b>\nBy the time + Mệnh đề chia ở thì hiện tại đơn</b>
+        <u>\nVD:</u>
+        \n- By the time he comes to my house tomorrow, I will have finished my homework. (Khi anh ấy đến nhà tôi vào ngày mai, tôi sẽ hoàn thành bài tập về nhà của mình)
+     <b>\nBefore + sự việc/ thời điểm trong tương lai</b>
+        <u>\nVD:</u>
+        \n- I will have finished my painting before dinner. (Tôi sẽ hoàn thành bức tranh của mình trước khi ăn tối)
+     <b>\nKhoảng thời gian + from now</b>
+        <u>\nVD:</u>
+        \n- 3 months from now, I will have finished my weight loss. (3 tháng nữa, tôi sẽ hoàn thành quá trình giảm cân của mình)
+    </string>
+    <string name="nameTLHTTD">THÌ T. LAI HOÀN THÀNH TIẾP DIỄN</string>
+    <string name="noidungTLHTTD">
+        <font color="#FFFF5252"><font size="20">\nI. CÁCH SỬ DỤNG</font></font>
+        \nDiễn tả một hành động xảy ra và kéo dài liên tục đến một thời điểm xác định trong tương lai.
+        <font color="#FFFF5252"><font size="20">\n\nII. CÔNG THỨC</font></font>
+        <font color="#FF1565C0"><font size="18">\n1. KHẲNG ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + will + have + been + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- By the end of this year, I will have been playing chess for 2 years. (Cuối năm nay, tôi sẽ chơi cờ vua được 2 năm)
+        \n- At the end of this month, she will have been learning yoga for 2 months. (Cuối tháng này, cô sẽ học yoga được 2 tháng)
+        <font color="#FF1565C0"><font size="18">\n2. PHỦ ĐỊNH</font></font>
+        <font size="21">\n\n\t<b>S + will not + have + been + V-ing</b></font>\n\n
+        <u>VD:</u>
+        \n- I won\'t have been playing sports for 3 months until the end of this year. (Tôi sẽ không chơi thể thao trong 3 tháng cho đến cuối năm nay)
+        \n- I won\'t have been shopping for 3 months until the end of the year. (Tôi sẽ không mua sắm trong 3 tháng cho đến cuối năm)
+        <font color="#FF1565C0"><font size="18">\n3. NGHI VẤN</font></font>
+        <font size="21">\n\n\t<b>Q: Will + S + have + been + V-ing?
+                            \n\tA:
+                            \n + Yes, S + will
+                            \n + No, S + won\'t </b></font>\n\n
+        <u>VD:</u>
+        \nQ: Will she have been teaching for 5 years by the end of next year? (Cô phải cô ấy đã dạy học được 5 năm tính đến cuối năm sau)
+        \nA: Yes, she will
+        \nQ: Will you have been playing basketball for 2 years by the end of this month? (Có phải bạn sẽ chơi bóng rỗ được 2 năm tính đến cuối tháng này)
+        \nA: No, I won\'t
+        <font color="#FFFF5252"><font size="20">\n\nIII. DẤU HIỆU NHẬN BIẾT</font></font>
+        \nThì tương lai hoàn thành tiếp diễn có những dấu hiệu nhận biết thông qua những cụm sau:
+     <b>\nBy then: </b>Đến lúc đó
+        <u>\nVD:</u>
+        \n- By then, I will have been travelling for a week. (Đến lúc đó, tôi sẽ đi du lịch được 1 tuần)
+     <b>\nBy the time + mệnh đề thì hiện tại đơn </b>
+   <u>\nVD:</u>
+        \n- He will have been waiting for an hour by the time I meet him. (Anh ấy sẽ đợi cả tiếng đồng hồ khi tôi gặp anh ấy)
+     <b>\nBy the time of this</b>
+  <u>\nVD:</u>
+        \n- I will have been studying English for 3 years by the end of this course. (Tôi sẽ học Tiếng Anh trong 3 năm vào cuối khóa học này)
+        \nNgoài ra, <b>when</b> cũng thường được sử dụng trong mệnh đề chỉ thời gian.
+  <u>\nVD:</u>
+        \nWhen I am 30 years old, I will have been playing chess for 7 years. (Khi tôi 30 tuổi, tôi sẽ chơi cờ được 7 năm)
+    </string>
+    <string name="title_activity_youtube_search">YoutubeSearchActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
